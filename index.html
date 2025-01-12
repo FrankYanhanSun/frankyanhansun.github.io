@@ -1,7 +1,161 @@
+<!--
 <!DOCTYPE html>
 <html>
 <body>
 <h1>Welcome to my website!</h1>
 <p>It is hosted with GitHub Pages.</p>
+</body>
+</html>
+-->
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的个人博客</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #35424a;
+            color: #ffffff;
+            padding: 10px 0;
+            text-align: center;
+            width: 100%;
+            position: fixed;
+            top: 0;
+            z-index: 1000;
+        }
+        .container {
+            display: flex;
+            margin-top: 60px;
+            width: 100%;
+        }
+        .sidebar {
+            width: 250px;
+            background: #ffffff;
+            padding: 20px;
+            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+            position: fixed;
+            height: 100%;
+        }
+        .sidebar h2 {
+            margin-top: 0;
+        }
+        .sidebar nav a {
+            display: block;
+            margin: 15px 0;
+            color: #35424a;
+            text-decoration: none;
+        }
+        .sidebar nav a:hover {
+            color: #e8491d;
+        }
+        .main-content {
+            margin-left: 290px;
+            flex: 1;
+            padding: 20px;
+            background: #ffffff;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+        .page {
+            display: none;
+        }
+        .page.active {
+            display: block;
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background: #35424a;
+            color: #ffffff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>欢迎来到我的个人博客</h1>
+</header>
+
+<div class="container">
+    <!-- 右侧栏 -->
+    <div class="sidebar">
+        <br>
+        <br>
+        <h2>个人信息</h2>
+        <p>姓名：张三</p>
+        <p>职业：前端开发者</p>
+        <p>邮箱：zhangsan@example.com</p>
+        <h2>导航</h2>
+        <nav>
+            <a href="#" data-page="home">首页</a>
+            <a href="#" data-page="about">关于我</a>
+            <a href="#" data-page="blog">博客文章</a>
+            <a href="#" data-page="contact">联系我</a>
+        </nav>
+    </div>
+
+    <!-- 左侧主内容 -->
+    <div class="main-content">
+        <div id="home" class="page active">
+            <br>
+            <h2>首页</h2>
+            <p>欢迎来到我的个人博客！在这里，我将分享我的技术学习、生活感悟等内容。</p>
+        </div>
+        <div id="about" class="page">
+            <br>
+            <h2>关于我</h2>
+            <p>我是一名前端开发者，热爱编程和技术分享。希望通过这个博客记录我的成长历程。</p>
+        </div>
+        <div id="blog" class="page">
+            <br>
+            <h2>博客文章</h2>
+            <p>这里是我的博客文章列表：</p>
+            <ul>
+                <li><a href="#">我的第一篇博文</a></li>
+                <li><a href="#">学习HTML的心得</a></li>
+                <li><a href="#">前端开发的未来趋势</a></li>
+            </ul>
+        </div>
+        <div id="contact" class="page">
+            <br>
+            <h2>联系我</h2>
+            <p>如果你有任何问题或建议，欢迎通过以下方式联系我：</p>
+            <ul>
+                <li>邮箱：zhangsan@example.com</li>
+                <li>微信：zhangsan123</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2023 我的个人博客</p>
+</footer>
+
+<script>
+    // JavaScript实现页面切换
+    document.querySelectorAll('.sidebar nav a').forEach(link => {
+        link.addEventListener('click', function (e) {
+            e.preventDefault();
+            const pageId = this.getAttribute('data-page');
+            document.querySelectorAll('.page').forEach(page => {
+                page.classList.remove('active');
+            });
+            document.getElementById(pageId).classList.add('active');
+        });
+    });
+</script>
+
 </body>
 </html>
