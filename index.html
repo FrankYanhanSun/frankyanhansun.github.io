@@ -1,13 +1,3 @@
-<!--
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Welcome to my website!</h1>
-<p>It is hosted with GitHub Pages.</p>
-</body>
-</html>
--->
-
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -25,12 +15,16 @@
         header {
             background: #35424a;
             color: #ffffff;
-            padding: 10px 0;
+            padding: 5px 0;
             text-align: center;
             width: 100%;
             position: fixed;
             top: 0;
             z-index: 1000;
+            height: 50px;
+            display: flex;
+            align-items: center; /* 使子元素垂直居中 */
+            justify-content: center; /* 使子元素水平居中 */
         }
         .container {
             display: flex;
@@ -38,12 +32,13 @@
             width: 100%;
         }
         .sidebar {
-            width: 250px;
+            width: 230px;
             background: #ffffff;
-            padding: 20px;
+            padding: 10px;
             box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
             position: fixed;
             height: 100%;
+            text-align: center; /* 使文本居中 */
         }
         .sidebar h2 {
             margin-top: 0;
@@ -58,7 +53,7 @@
             color: #e8491d;
         }
         .main-content {
-            margin-left: 290px;
+            margin-left: 260px;
             flex: 1;
             padding: 20px;
             background: #ffffff;
@@ -78,13 +73,18 @@
             position: fixed;
             bottom: 0;
             width: 100%;
+            height: 10px;
+            display: flex;
+            align-items: center; /* 使子元素垂直居中 */
+            justify-content: center; /* 使子元素水平居中 */
+        
         }
     </style>
 </head>
 <body>
 
 <header>
-    <h1>欢迎来到我的个人博客</h1>
+    <h1>Frank Yanhan Sun's Blog</h1>
 </header>
 
 <div class="container">
@@ -92,18 +92,35 @@
     <div class="sidebar">
         <br>
         <br>
-        <h2>个人信息</h2>
-        <p>姓名：</p>
-        <p>Yanhan Sun</p>
-        <p>邮箱：<p>
+        <br>
+        <br>
+
+        <br>
+        <h2>Hello World</h2>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <p>Yanhan Sun (Frank)</p>
         <p>frankyanhansun@outlook.com</p>
         <br>
-        <h2>导航</h2>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
         <nav>
-            <a href="#" data-page="home">首页</a>
-            <a href="#" data-page="about">关于我</a>
-            <a href="#" data-page="blog">博客文章</a>
-            <a href="#" data-page="contact">联系我</a>
+            <a href="#" data-page="home">HOME</a>
+            <a href="#" data-page="about">ABOUT</a>
+            <a href="#" data-page="blog">PROGRAMS</a>
+            <a href="#" data-page="contact">ARTICALS</a>
         </nav>
     </div>
 
@@ -111,37 +128,37 @@
     <div class="main-content">
         <div id="home" class="page active">
             <br>
-            <h2>首页</h2>
-            <p>欢迎来到我的个人博客！在这里，我将分享我的技术学习、生活感悟等内容。</p>
+            <h2>HOME</h2>
+            <p>Welcome to my blog!</p>
         </div>
         <div id="about" class="page">
             <br>
-            <h2>关于我</h2>
-            <p>我是一名前端开发者，热爱编程和技术分享。希望通过这个博客记录我的成长历程。</p>
+            <h2>ABOUT</h2>
+            <p></p>
         </div>
         <div id="blog" class="page">
             <br>
-            <h2>博客文章</h2>
-            <p>这里是我的博客文章列表：</p>
+            <h2>PROGRAMS</h2>
+            <p>The programs I have finished or I am working on are shown here.</p>
             <ul>
-                <li><a href="#">我的第一篇博文</a></li>
-                <li><a href="#">学习HTML的心得</a></li>
-                <li><a href="#">前端开发的未来趋势</a></li>
+                <li><a href="#">1</a></li>
+                <li><a href="#">2</a></li>
+                <li><a href="#">3</a></li>
             </ul>
         </div>
         <div id="contact" class="page">
             <br>
-            <h2>联系我</h2>
-            <p>如果你有任何问题或建议，欢迎通过以下方式联系我：</p>
+            <h2>ARTICALS</h2>
+            <p>The articles I have written are shown here.</p>
             <ul>
-                <li>邮箱：frankyanhansun@outlook.com</li>
+                <li>1</li>
             </ul>
         </div>
     </div>
 </div>
 
 <footer>
-    <p>&copy; 2025 我的个人博客</p>
+    <p>&copy; 2025 Frank Yanhan Sun</p>
 </footer>
 
 <script>
