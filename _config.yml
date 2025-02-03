@@ -6,7 +6,7 @@ url: https://frankyanhansun.github.io
 
 # Owner/author information
 owner:
-  name: Yanhan Sun (Frank)
+  name: Yanhan Sun
   avatar: LOGO.png
   # bio: 
   email: frankyanhansun@outlook.com
@@ -37,9 +37,9 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # For external links add external: true
 links:
   - title: About Me
-    url: /
-  - title: Publications
-    url: /publications/
+    url: /aboutme/
+  - title: Projets
+    url: /projets/
   - title: Awards
     url: /awards/
   - title: Hobbies
