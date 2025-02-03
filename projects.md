@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/index.html
-title: Publications
+permalink: /projets/index.html
+title: Projets
 ---
 
 > (†: equal contribution, ~: corresponding author)
