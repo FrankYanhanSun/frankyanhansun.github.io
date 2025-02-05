@@ -20,14 +20,15 @@ layout: page
 - CAD
 - PCB
 <br>
-------
+
 ## Personal Interests
 - Automobile (Especially Formula 1)
 - 3C Product
 - Film (Especially Action Film, Thrillers and Sci-Fi)
 - Rock 'n' Roll
 - Football
-------
+<br>
+
 ## News and Updates
 
 - **2/2025**: set up the website
