@@ -3,7 +3,7 @@ layout: page
 permalink: /blogs/index.html
 title: Blogs
 ---
-
+# Blogs
 ##  Academic Blogs
 
 ### 2025
@@ -23,6 +23,8 @@ title: Blogs
 <br>[![Star History Chart](https://api.star-history.com/svg?repos=FrankYanhanSun/frankyanhansun.github.io&type=Date)](https://star-history.com/#FrankYanhanSun/frankyanhansun.github.io&Date)
 <br>
 
+
+<!--
 ## Leave a Message 欢迎留言
 
 <br>
@@ -30,3 +32,4 @@ title: Blogs
 {% include disqus.html %} 
 
 <br>
+-->
