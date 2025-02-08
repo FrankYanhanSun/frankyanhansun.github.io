@@ -5,7 +5,7 @@ title: Awards
 ---
 
 # Awards
-> Update: 03/02/2025
+> Update: 08/02/2025
 
 ## Scholarships
 ### 2024
