@@ -23,11 +23,11 @@ layout: page
 <br>
 
 ## Personal Interests
-- Automobile (Especially Formula 1)
-- 3C Product
-- Film (Especially action Film, thrillers and Sci-Fi)
-- Rock 'n' Roll (Especially post rock and indie rock)
-- Football (I am a huge fan of FCBarcelona 🔴🔵 !)
+- Automobile     🚗 (Especially Formula 1 🏁)
+- 3C Product      📱
+- Film                  🎥 (Especially action Film, thrillers and Sci-Fi)
+- Rock 'n' Roll    🤘 (Especially post rock and indie rock)
+- Football           ⚽ (I am a huge fan of FCBarcelona 🔴🔵 !)
 <br>
 
 ## News and Updates
