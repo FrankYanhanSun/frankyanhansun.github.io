@@ -12,6 +12,7 @@ title: Projets
 
 ## Ongoing Projects
 - Creation for automatic target-seeking robot car<br>**(In charge of PCB design for the expanded board of the ESP32s3 minimum system board and programming for motion control)**
+- Design of USB hub<br>**(My first ever hardware poject including PCB design and Exterior Modeling)**
 
 ## Early Projects
 ### 2025
