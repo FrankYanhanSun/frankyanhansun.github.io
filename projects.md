@@ -12,11 +12,12 @@ title: Projets
 
 ## Ongoing Projects
 - Creation for automatic target-seeking robot car<br>**(In charge of PCB design for the expanded board of the ESP32s3 minimum system board and programming for motion control)**
-- Design of USB hub<br>**(My first ever hardware poject including PCB design and Exterior Modeling)**
 
 ## Early Projects
 ### 2025
-- My Personal Website (the content will be continually updated)
+
+- [Design of USB hub](https://github.com/FrankYanhanSun/USBhub)<br>**(My first ever hardware poject including PCB design and Exterior Modeling)**
+- My Personal Website <br>**(the content will be continually updated)**
 
 ### 2024
 - Research on diagnosis and localization of moles for robotic mole removal surgery based on YOLOv8<br>**(A research experience under the guidance of [Prof Hongliang Ren](https://scholar.google.com/citations?user=rcF7N44AAAAJ&hl=en) with a paper mentioned above)**
