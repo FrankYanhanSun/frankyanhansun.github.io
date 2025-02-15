@@ -16,7 +16,7 @@ title: Projets
 ## Early Projects
 ### 2025
 
-- [Design of USB hub](https://github.com/FrankYanhanSun/USBhub)<br>**(My first ever hardware poject including PCB design and Exterior Modeling)**
+- [Design of USB hub](https://github.com/FrankYanhanSun/USBhub)<br>**(My first ever hardware project including PCB design and exterior modeling)**
 - My Personal Website <br>**(the content will be continually updated)**
 
 ### 2024
