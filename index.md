@@ -28,4 +28,4 @@ layout: page
 
 ## News and Updates
 
-- **2/2025**: The website was set up with some basic content.
+- **2/2025**: The website was set up with some basic contents.
