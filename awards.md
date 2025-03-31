@@ -15,6 +15,7 @@ title: Awards
 ## Competitions
 ### 2025
 - **First Prize** of Shanghai National Undergraduate Engineering Practice And Innovation Ability Competition Ability Competition (Province Level)
+
 ### 2024
 - **Second Prize** of the Final of Shanghai University 2024 National Undergraduate Engineering Practice And Innovation Ability Competition (University Level)
 - **Bronze Award** of Shanghai University 2024 China International College Students’ Innovation Competition Intramural Selection Competition (University Level)
