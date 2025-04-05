@@ -7,7 +7,7 @@ title: Blogs
 ##  Academic Blogs
 
 ### 2025
-<!--- [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)-->
+[大二海外暑研套磁记录](https://frankyanhansun.github.io/blogs/SummerResearch)
 <br>
 ## Blogs for Hobbies
 <br>
