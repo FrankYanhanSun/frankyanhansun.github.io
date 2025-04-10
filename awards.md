@@ -5,12 +5,13 @@ title: Awards
 ---
 
 # Awards
-> Update: 03/04/2025
+> Update: 10/04/2025
 
-## Scholarships
+## Scholarships and Honours
 ### 2024
+- **Outstanding Students** of Shanghai University (University Level)
 - **Special Prize** of Shanghai University Undergraduate Fall Scholarships for the 2023-2024 Academic Year Academic Excellence Special Scholarships (University Level)
-- Shanghai University Undergraduate Fall Scholarships for the 2023-2024 Academic Year Innovation and Entrepreneurship Scholarships (University Level)
+- **Innovation and Entrepreneurship Scholarships** of Shanghai University Undergraduate Fall Scholarships for the 2023-2024 Academic Year  (University Level)
 
 ## Competitions
 ### 2025
