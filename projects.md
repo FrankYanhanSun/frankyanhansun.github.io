@@ -5,18 +5,18 @@ title: Projets
 ---
 
 # Projects
-> Update: 02/04/2025
+> Update: 14/04/2025
 
 ## Papers
 - **Sun,Y**. (2024).<br>[Research on Diagnosis and Localization of Moles for Robotic Mole Removal Surgery Based on YOLO](https://doi.org/10.54254/2755-2721/111/2024CH0117).<br>Applied and Computational Engineering,111,105-113.
 
 ## Ongoing Projects
 - Creation for a bluetooth gamepad for controlling everything (robots, games, etc.)
-- Creation for an automatic target-seeking robot car<br>**(In charge of PCB design for the expanded board of the ESP32s3 minimum system board and programming for motion control)**
+- Creation for an automatic target-seeking robot car<br>**(In charge of PCB design for the expanded board for the ESP32s3 minimum system board and for programming for motion control)**
 
 ## Early Projects
 ### 2025
-
+- [Expanded board for ESP32s3 minimum system board](https://github.com/FrankYanhanSun/ESP32_Expanded_Board)
 - [Design of USB hub](https://github.com/FrankYanhanSun/USBhub)<br>**(My first ever hardware project including PCB design and exterior modeling)**
 - My Personal Website <br>**(the content will be continually updated)**
 
