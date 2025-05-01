@@ -7,8 +7,16 @@ title: Blogs
 ##  Academic Blogs
 
 ### 2025
-[大二海外暑研套磁记录](https://frankyanhansun.github.io/blogs/SummerResearch)
-<br>
+<div style="display: flex; justify-content: space-between;">
+  <span><a href="https://frankyanhansun.github.io/blogs/SummerResearch" target="_blank" rel="noopener">大二海外暑研套磁记录</a></span>
+  <span>5/2025</span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <span><a href="https://frankyanhansun.github.io/blogs/SummerResearchGuide" target="_blank" rel="noopener">暑研指北</a></span>
+  <span>5/2025</span>
+</div>
+
 ## Blogs for Hobbies
 <br>
 

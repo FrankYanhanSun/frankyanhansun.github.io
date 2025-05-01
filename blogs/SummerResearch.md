@@ -4,4 +4,4 @@ permalink: /blogs/SummerResearch/index.html
 title: SummerResearch
 ---
 
-## 大二海外暑研陶瓷记录
+# 大二海外暑研套磁记录
