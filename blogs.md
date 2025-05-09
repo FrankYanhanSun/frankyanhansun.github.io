@@ -14,7 +14,7 @@ title: Blogs
 
 <div style="display: flex; justify-content: space-between;">
   <span><a href="https://frankyanhansun.github.io/blogs/SummerResearchGuide" target="_blank" rel="noopener">暑研指北</a></span>
-  <span>5/2025</span>
+  <span>9/5/2025</span>
 </div>
 
 ## Blogs for Hobbies
