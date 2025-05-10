@@ -17,7 +17,7 @@ title: SummerResearchGuide
 
 &emsp;&emsp;暑研，即暑期科研，指利用暑假开展科研活动。我们常说的“暑研”，在英文语境下包括：`Summer Research`、`Summer Research Internship`等概念，也包括一些短期的`Visit`项目。<br>
 
-&emsp;&emsp;在我看来，暑研是最佳的丰富科研经历、建立connection的机会。对于出国留学的申请，暑研是巨大的加分项，尤其是当你恰好在申请的目标学校做过暑研。通过暑研，你将会获得科研或实习证明，更有机会获得指导老师的推荐信。当然千万不要忘记，暑研的目的更在于学习以提升竞争力。所以想好自己开展暑研的目的，然后就开始规划吧！<br>
+&emsp;&emsp;在我看来，暑研是最佳的丰富科研经历、建立connection的机会。对于出国留学的申请，暑研是巨大的加分项，尤其是当你恰好在申请的目标学校做过暑研。通过暑研，你将会获得科研或实习证明，更有机会获得指导老师的推荐信。当然千万不要忘记，暑研的目的更在于学习以提升竞争力。所以想好自己进行暑研的目的，然后就开始规划吧！<br>
 
 ## 二、官方暑研项目
 ### 1.暑研 OR 暑校？
@@ -32,12 +32,11 @@ title: SummerResearchGuide
 ### 2.暑研项目列表
 
 &emsp;&emsp;以下我将列举一些我关注的官方暑研项目，综合学校、录取难度、时间、费用等因素，供参考：<br>
-- 北美（美国的项目需J-1签证，获批时间长，请谨慎考虑）
+- 北美（**美国的项目需J-1签证，获批时间长，请谨慎考虑**）
   - [Notre Dame iSURE](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096)<br>**需自费，大二可申请**
   - [UCI UCInspire](https://sites.uci.edu/ucinspire/)<br>**需自费，大二可申请**
   - [CMU RISS](https://riss.ri.cmu.edu/)<br>**机器人方向，竞争激烈**
   - [北卡州立 GEARS](https://gti.ncsu.edu/gears/)<br>**可线上或线下，寒暑假均有，需自费，时间较短：4周**
-
   - [UW VISIT](https://www.ielp.uw.edu/programs/research-programs/visit/overview)<br>**时间自由：3周到一年**
   - [Mitacs](https://www.mitacs.ca/our-programs/globalink-research-internship-students/)<br>**可选择学校包含大部分的加拿大学校，有机会获得[CSC的奖学金](https://www.csc.edu.cn/chuguo/s/3304)，需通过就读学校申请，申请流程繁琐**
   - 其他项目：Stanford、Caltech、Brown等均有暑研项目
@@ -100,11 +99,11 @@ Cons：<br>
 
 #### （2）选校：
 
-&emsp;&emsp;对于暑研来说，学校的排名等功利的指标完全没有意义。我认为应该选择那些排名可能并不怎么样，但是在某领域是比较强的学校或实验室。以我的方向robotics为例，以下是我关注的一些学校和实验室：<br>
+&emsp;&emsp;对于暑研来说，学校的排名等功利的指标完全没有意义。我认为应该选择那些排名可能并不怎么样，但是在某领域是比较强的学校或实验室。当然，那些排名高、人气高的学校实力肯定也非常强劲，但我还是为了减少竞争提升申请成功的概率，放弃了这类学校。以我的方向robotics为例，以下是我关注的一些学校和实验室：<br>
 - 英国
   - [Bristol Robotics Laboratory (BRL)](https://www.bristolroboticslab.com/)<br>**布里斯托大学与同城的西英格兰大学联合建立的实验室**
 - 德国
-  - [DLR](https://www.dlr.de/en)
+  - [DLR](https://www.dlr.de/en)<br>**德国航天局**
   - [University of Bonn @Center for Robotics](https://www.robotics.uni-bonn.de/)
   - [TU Darmstadt @Intelligent Autonomous Systems Group](https://www.ias.informatik.tu-darmstadt.de/Main/LandingPage?from=Main.HomePage)
   - 马普所做robotics的实验室
@@ -134,11 +133,12 @@ Cons：<br>
 &emsp;&emsp;导师任职的学校以及他获得学位的学校也是你需要关注的。如果你未来研究生的目标院校是导师任职的学校以及他获得学位的学校其中的一所，且如果你能成功在这位导师的手下做暑研，他可能对你的未来申请有很大帮助。<br>
 
 &emsp;&emsp;这里我还想介绍一些技巧，帮助你更大概率收到导师回信并被导师录取暑研：<br>
-- 选择`AP`（Associated Professor或Assistant Professor）。他们相对年轻、缺人手，有教职但又不是超级巨佬、大忙人，可能更愿意理睬我们这些无名小卒的申请
-- 关注有个人主页（如Github Page）或学校官网主页内容丰富的导师。这些导师更愿意展示并分享自己的成果和经历，其中一个主要目的就是为了吸引申请者，尤其是那些直接表明正在招人的导师。
-- 可以多考虑华人导师，沟通会起来比较方便。但是你如果就是为了与非华人导师建立connection，那就忽略这一条吧。
+- **选择`AP`（Associated Professor或Assistant Professor）。**他们相对年轻、缺人手，有教职但又不是超级巨佬、大忙人，可能更愿意理睬我们这些无名小卒的申请
+- **关注有个人主页（如Github Page）或学校官网主页内容丰富的导师。**这些导师更愿意展示并分享自己的成果和经历，其中一个主要目的就是为了吸引申请者，尤其是那些直接表明正在招人的导师。
+- **可以多考虑华人导师，沟通会起来比较方便。**但是你如果就是为了与非华人导师建立connection，那就忽略这一条吧。
 
 &emsp;&emsp;更多经验分享包括套磁信怎么写、材料准备等，请看我的另一篇博客：[大二海外暑研套磁记录](https://frankyanhansun.github.io/blogs/SummerResearch/)。以上该考虑的考虑好，大家放心大胆的给心仪的导师发邮件就完事了。在这里也祝福大家套磁顺利，成功、安全、有所收获地进行暑研活动！<br>
+（完）<br>
 
 ## 四、参考文献及致谢
 
@@ -159,7 +159,7 @@ Cons：<br>
   [10] [Robotics in Japan](https://transit-port.net/Lists/Robotics.Org.in.Japan.html)<br>
   [11] [CSRankings: Robotics](https://csrankings.org/#/fromyear/2014/toyear/2024/index?robotics&world)<br>
 
-- 暑研套磁相关<br>
+- 暑研套磁面试相关<br>
   [12] [知乎|Frankdark @钢铁是如何炼成的--2020暑研申请总结(一)](https://zhuanlan.zhihu.com/p/121826302)<br>
   [13] [知乎|Frankdark @钢铁是如何炼成的--2020暑研申请总结(二)](https://zhuanlan.zhihu.com/p/122252971)<br>
   [13] [知乎|铅灰Chieko @如何自己申请国外暑期科研?](https://www.zhihu.com/question/36545251)<br>
@@ -168,10 +168,11 @@ Cons：<br>
   [16] [知乎|棕榈大道 @【干货+案例分析】套磁信=情书，教你写出让教授“一见钟情”的套磁信！](https://zhuanlan.zhihu.com/p/102099443)<br>
   [17] [知乎|知乎用户c929xe @Nuts干货| UCLA官方暑研CSST面试时，你该注意什么？](https://zhuanlan.zhihu.com/p/48296188)<br>
 
+<p align="right">2025.5.9&emsp;&emsp;上海</p>
+
 ---
 
-&emsp;&emsp;[如果觉得文章内容不错，给本网站一颗星支持一下吧 🥰](https://github.com/FrankYanhanSun/frankyanhansun.github.io) 
+&emsp;&emsp;[感谢你看到这里！如果觉得文章内容不错，给本网站一颗星支持一下吧 🥰](https://github.com/FrankYanhanSun/frankyanhansun.github.io) 
 <br>[![Star History Chart](https://api.star-history.com/svg?repos=FrankYanhanSun/frankyanhansun.github.io&type=Date)](https://star-history.com/#FrankYanhanSun/frankyanhansun.github.io&Date)
 <br>
 
-<p align="right">2025.5.9&emsp;&emsp;上海</p>
