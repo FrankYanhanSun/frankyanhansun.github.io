@@ -144,27 +144,29 @@ Cons：<br>
 
 &emsp;&emsp;以下内容对我的申请帮助很大，感谢大佬们的分享。我想特别感谢[@Hanlin Cai](https://caihanlin.com)，下面部分内容来自于他的分享。<br>
 
-- 官方暑研项目整理
-  [1] [上海大学飞跃手册 @国内外『官方』暑期学校|暑期研究项目一览](https://shuosc.github.io/fly/posts/summer-program/)
-  [2] [Hanlin Cai @Summer Research App](https://caihanlin.com/blogs/summer-res/)
-  [3] [b站|加州博士喵小能 @错过Mitacs没关系，26项重磅海外名校暑研在等你，每月都能申请！](https://www.bilibili.com/video/BV1H1mVYiE17/?spm_id_from=333.337.search-card.all.click&vd_source=a416fcb6c88258170a1902d8753f0269)
-- 全球机器人实验室整理
-  [4] [知乎|Biang哥 @机器人及相关领域实验室研究组（1）](https://zhuanlan.zhihu.com/p/682671294?utm_psn=1782122763157188608)
-  [5] [知乎|Biang哥 @机器人及相关领域实验室研究组（2）](https://zhuanlan.zhihu.com/p/682692024?utm_psn=1782122945184796672)
-  [6] [知乎|荷兰猪 @欧洲机器人实验室盘点](https://zhuanlan.zhihu.com/p/31620093)
-  [7] [知乎|段晋军 @欧洲机器人实验室到底在研究什么？浅析其研究进展](https://zhuanlan.zhihu.com/p/31851095)
-  [8] [知乎|SobotHub @有哪些著名的机器人公司和机器人实验室？](https://www.zhihu.com/question/19826366/answer/2602158066)
-  [9] [知乎|包包菜 @日本的机器人实验室](https://zhuanlan.zhihu.com/p/86365835)
-  [10] [Robotics in Japan](https://transit-port.net/Lists/Robotics.Org.in.Japan.html)
-  [11] [CSRankings: Robotics](https://csrankings.org/#/fromyear/2014/toyear/2024/index?robotics&world)
-- 暑研套磁相关
-  [12] [知乎|Frankdark @钢铁是如何炼成的--2020暑研申请总结(一)](https://zhuanlan.zhihu.com/p/121826302)
-  [13] [知乎|Frankdark @钢铁是如何炼成的--2020暑研申请总结(二)](https://zhuanlan.zhihu.com/p/122252971)
-  [13] [知乎|铅灰Chieko @如何自己申请国外暑期科研?](https://www.zhihu.com/question/36545251)
-  [14] [知乎|Lance @【熟肉】如何正确地找心仪老师套瓷？Advice for Prospective Research Students (Prof. David Evans)](https://zhuanlan.zhihu.com/p/661528840)
-  [15] [一亩三分地|BirkhoffG @[申请总结]暑研陶瓷经验分享【附陶瓷模板】](https://www.1point3acres.com/bbs/thread-496880-1-1.html)
-  [16] [知乎|棕榈大道 @【干货+案例分析】套磁信=情书，教你写出让教授“一见钟情”的套磁信！](https://zhuanlan.zhihu.com/p/102099443)
-  [17] [知乎|知乎用户c929xe @Nuts干货| UCLA官方暑研CSST面试时，你该注意什么？](https://zhuanlan.zhihu.com/p/48296188)
+- 官方暑研项目整理<br>
+  [1] [上海大学飞跃手册 @国内外『官方』暑期学校|暑期研究项目一览](https://shuosc.github.io/fly/posts/summer-program/)<br>
+  [2] [Hanlin Cai @Summer Research App](https://caihanlin.com/blogs/summer-res/)<br>
+  [3] [b站|加州博士喵小能 @错过Mitacs没关系，26项重磅海外名校暑研在等你，每月都能申请！](https://www.bilibili.com/video/BV1H1mVYiE17/?spm_id_from=333.337.search-card.all.click&vd_source=a416fcb6c88258170a1902d8753f0269)<br>
+
+- 全球机器人实验室整理<br>
+  [4] [知乎|Biang哥 @机器人及相关领域实验室研究组（1）](https://zhuanlan.zhihu.com/p/682671294?utm_psn=1782122763157188608)<br>
+  [5] [知乎|Biang哥 @机器人及相关领域实验室研究组（2）](https://zhuanlan.zhihu.com/p/682692024?utm_psn=1782122945184796672)<br>
+  [6] [知乎|荷兰猪 @欧洲机器人实验室盘点](https://zhuanlan.zhihu.com/p/31620093)<br>
+  [7] [知乎|段晋军 @欧洲机器人实验室到底在研究什么？浅析其研究进展](https://zhuanlan.zhihu.com/p/31851095)<br>
+  [8] [知乎|SobotHub @有哪些著名的机器人公司和机器人实验室？](https://www.zhihu.com/question/19826366/answer/2602158066)<br>
+  [9] [知乎|包包菜 @日本的机器人实验室](https://zhuanlan.zhihu.com/p/86365835)<br>
+  [10] [Robotics in Japan](https://transit-port.net/Lists/Robotics.Org.in.Japan.html)<br>
+  [11] [CSRankings: Robotics](https://csrankings.org/#/fromyear/2014/toyear/2024/index?robotics&world)<br>
+
+- 暑研套磁相关<br>
+  [12] [知乎|Frankdark @钢铁是如何炼成的--2020暑研申请总结(一)](https://zhuanlan.zhihu.com/p/121826302)<br>
+  [13] [知乎|Frankdark @钢铁是如何炼成的--2020暑研申请总结(二)](https://zhuanlan.zhihu.com/p/122252971)<br>
+  [13] [知乎|铅灰Chieko @如何自己申请国外暑期科研?](https://www.zhihu.com/question/36545251)<br>
+  [14] [知乎|Lance @【熟肉】如何正确地找心仪老师套瓷？Advice for Prospective Research Students (Prof. David Evans)](https://zhuanlan.zhihu.com/p/661528840)<br>
+  [15] [一亩三分地|BirkhoffG @[申请总结]暑研陶瓷经验分享【附陶瓷模板】](https://www.1point3acres.com/bbs/thread-496880-1-1.html)<br>
+  [16] [知乎|棕榈大道 @【干货+案例分析】套磁信=情书，教你写出让教授“一见钟情”的套磁信！](https://zhuanlan.zhihu.com/p/102099443)<br>
+  [17] [知乎|知乎用户c929xe @Nuts干货| UCLA官方暑研CSST面试时，你该注意什么？](https://zhuanlan.zhihu.com/p/48296188)<br>
 
 ---
 
