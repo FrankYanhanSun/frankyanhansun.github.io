@@ -13,6 +13,8 @@ title: Awards
 - **Special Prize** of Shanghai University Undergraduate Fall Scholarships for the 2023-2024 Academic Year Academic Excellence Special Scholarships (University Level)
 - **Innovation and Entrepreneurship Scholarships** of Shanghai University Undergraduate Fall Scholarships for the 2023-2024 Academic Year  (University Level)
 
+---
+
 ## Competitions
 ### 2025
 - **First Prize** of Shanghai National Undergraduate Engineering Practice And Innovation Ability Competition Ability Competition (Province Level)

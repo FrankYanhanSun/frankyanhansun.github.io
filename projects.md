@@ -5,14 +5,19 @@ title: Projets
 ---
 
 # Projects
-> Update: 14/04/2025
+> Update: 10/05/2025
 
 ## Papers
 - **Sun,Y**. (2024).<br>[Research on Diagnosis and Localization of Moles for Robotic Mole Removal Surgery Based on YOLO](https://doi.org/10.54254/2755-2721/111/2024CH0117).<br>Applied and Computational Engineering,111,105-113.
 
+---
+
 ## Ongoing Projects
+- Research on trajectory planning and control of manipulator with Hqp and RNN 
 - Creation for a bluetooth gamepad for controlling everything (robots, games, etc.)
 - Creation for an automatic target-seeking robot car<br>**(In charge of PCB design for the expanded board for the ESP32s3 minimum system board and for programming for motion control)**
+
+---
 
 ## Early Projects
 ### 2025

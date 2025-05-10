@@ -4,9 +4,8 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 # Blogs
-##  Academic Blogs
 
-### 2025
+## 2025
 <div style="display: flex; justify-content: space-between;">
   <span><a href="https://frankyanhansun.github.io/blogs/SummerResearch" target="_blank" rel="noopener">大二海外暑研套磁记录</a></span>
   <span>5/2025</span>
@@ -17,8 +16,7 @@ title: Blogs
   <span>9/5/2025</span>
 </div>
 
-## Blogs for Hobbies
-<br>
+---
 
 ## Web Star History 点赞记录
 [Leave a star if you like it 🥰](https://github.com/FrankYanhanSun/frankyanhansun.github.io) 

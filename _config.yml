@@ -80,3 +80,10 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+
+
+
+gitalk:
+    repo: frankyanhansun.github.io
+    client_id: Ov23livAHFbznhIzXxCL
+    client_secret: 52562b8edf8eb94759babe463de121312d3f2c07
