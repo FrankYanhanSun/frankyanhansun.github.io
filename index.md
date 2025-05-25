@@ -42,3 +42,9 @@ The website is published with [GitHub Pages](https://pages.github.com/) and powe
 
 ## News and Updates
 - **2/2025**: The website was set up with some basic contents.
+
+---
+
+<center>
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=enl5Lx5qykynsgS6YVjMjYuYdr5ajmzxVgNP12TPbAY&co=000000&cmo=000dff&cmn=00ff91&ct=ffffff'></script>
+</center>
