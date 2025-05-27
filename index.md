@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-&emsp;&emsp;Hi！Here is **Yanhan Sun (Frank, 孙彦涵)**, a sophomore from Sino-European School of Technology of Shanghai, Shanghai University. I now major in mechanical engineering but I am interested in almost every subject in engineering (like EE, CS and so on). My specific research interests are mentioned below. <br>
+&emsp;Hi！Here is **Yanhan Sun (Frank, 孙彦涵)**, a sophomore from Sino-European School of Technology of Shanghai, Shanghai University. I now major in mechanical engineering but I am interested in almost every subject in engineering (like EE, CS and so on). My specific research interests are mentioned below. <br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to contact me on my email listed on the left.<br>
 
