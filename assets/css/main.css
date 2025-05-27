@@ -65,7 +65,7 @@ h3{font-size:36px;font-size:2rem;margin-bottom:0.825rem;text-rendering:optimizeL
 h4{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;text-rendering:optimizeLegibility;line-height:1;margin-top:0;}
 h5{font-size:21px;font-size:1.1666666666666667rem;margin-bottom:1.4142857142857141rem;text-rendering:optimizeLegibility;line-height:1;margin-top:0;}
 h6{font-size:18px;font-size:1rem;margin-bottom:1.65rem;text-rendering:optimizeLegibility;line-height:1;margin-top:0;}
-p{margin:0 0 1.5em;}p+p{text-indent:1.5em;margin-top:-1.5em;}
+p{margin:0 0 1.5em;}p{text-indent:1.5em;margin-top:-1.5em;}
 abbr,acronym,blockquote,code,dir,kbd,listing,plaintext,q,samp,tt,var,xmp{-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;-o-hyphens:none;hyphens:none;}
 pre code{word-wrap:normal;white-space:-moz-pre-wrap;white-space:pre-wrap;}
 pre{white-space:pre;}
