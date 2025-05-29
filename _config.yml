@@ -10,7 +10,7 @@ owner:
   avatar: LOGO.png
   # bio: 
   email: frankyanhansun@outlook.com
-  #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv: https://frankyanhansun.github.io/file/CV-YanhanSun.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: FrankYanhanSun
   linkedin: yanhansun
@@ -18,7 +18,7 @@ owner:
   # scholar: 
   # bilibili: 
   # researchgate: 
-  # zhihu: 
+  zhihu: FrankYanhanSun 
   # facebook: 
   # instagram: 
   # lastfm:
@@ -36,7 +36,7 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: Main
     url: /
   - title: Projets
     url: /projets/
@@ -74,9 +74,6 @@ kramdown:
   #   coderay_css: class
 
 
-# disqus settings:
-# disqus:
-#   shortname: lancecai
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
