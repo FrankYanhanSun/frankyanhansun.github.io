@@ -41,5 +41,5 @@ The website is published with [GitHub Pages](https://pages.github.com/) and powe
 ---
 
 ## News and Updates
-- **2/2025**: The website was built.
 - **5/2025**: Comment system was added (powered by [Gitalk](https://gitalk.github.io/)). I uploaded my first blog.
+- **2/2025**: The website was built.
