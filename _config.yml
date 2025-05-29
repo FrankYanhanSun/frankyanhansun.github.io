@@ -84,6 +84,8 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 
 gitalk:
-    repo: frankyanhansun.github.io
-    client_id: Ov23livAHFbznhIzXxCL
-    client_secret: 52562b8edf8eb94759babe463de121312d3f2c07
+    repo: FrankYanhanSun/Gitalk_comment
+    client_id: Ov23lihnmZn9aASGczuq
+    client_secret: 4aa9bb229bf645539bd3656036d391d4da46c8c3
+    owner: FrankYanhanSun
+    admin: FrankYanhanSun

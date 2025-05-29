@@ -176,3 +176,20 @@ Cons：<br>
 <br>[![Star History Chart](https://api.star-history.com/svg?repos=FrankYanhanSun/frankyanhansun.github.io&type=Date)](https://star-history.com/#FrankYanhanSun/frankyanhansun.github.io&Date)
 <br>
 
+---
+
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<script>
+  var gitalk = new Gitalk({
+    clientID: 'Ov23lihnmZn9aASGczuq',
+    clientSecret: '4aa9bb229bf645539bd3656036d391d4da46c8c3',
+    repo: 'FrankYanhanSun/Gitalk_comment',
+    owner: 'FrankYanhanSun',
+    admin: ['FrankYanhanSun'],
+    id: location.pathname,
+    distractionFreeMode: false
+  });
+  gitalk.render('gitalk-container');
+</script>
