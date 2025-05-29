@@ -185,7 +185,7 @@ Cons：<br>
   var gitalk = new Gitalk({
     clientID: 'Ov23lihnmZn9aASGczuq',
     clientSecret: '4aa9bb229bf645539bd3656036d391d4da46c8c3',
-    repo: 'FrankYanhanSun/Gitalk_comment',
+    repo: 'Gitalk_comment',
     owner: 'FrankYanhanSun',
     admin: ['FrankYanhanSun'],
     id: location.pathname,
