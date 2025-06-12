@@ -56,7 +56,8 @@ title: SummerResearchGuide
   - [KAIST VSR](https://io.kaist.ac.kr/menu/io.do?mguid=D4CD2D0A-21E5-E511-940C-2C44FD7DF8B9) 
 - 大陆
   - [上交密院 科研见习项目](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-12-02/151065/)<br>**寒假举行，以上为2025年的链接，不知道密院解散对未来该项目开展有无影响。我之前申请没要我:(**
-  - [西湖大学 暑期科研实习](https://www.westlake.edu.cn/news_events/westlakenews/zsdt/202503/t20250310_53390.shtml)<br>**2025年暑期科研实习申请现已启动**
+  - [西湖大学 暑期科研实习](https://www.westlake.edu.cn/news_events/westlakenews/zsdt/202503/t20250310_53390.shtml)<br>**2025年暑期科研实习申请网站如上**
+  - [NYU Shanghai Undergraduate Summer Sessions](https://shanghai.nyu.edu/page/undergraduate-summer-sessions)
 - 港澳台新（我没有考虑，因此关注不多）
   - HKU、CUHK、HKUST、PolyU、CityU均有暑研项目
   - [NTU Summer+ Intensive Research](https://oia.ntu.edu.tw/short-term-programs/courses/8BF146B51660)<br>**鉴于两岸关系，不做推荐**
