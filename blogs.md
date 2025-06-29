@@ -6,6 +6,12 @@ title: Blogs
 # Blogs
 
 ## 2025
+
+<div style="display: flex; justify-content: space-between;">
+  <span><a href="https://frankyanhansun.github.io/blogs/rnn4convex" target="_blank" rel="noopener">一种基于rnn的非线性凸规划解决方法</a></span>
+  <span>7/2025</span>
+</div>
+
 <div style="display: flex; justify-content: space-between;">
   <span><a href="https://frankyanhansun.github.io/blogs/SummerResearch" target="_blank" rel="noopener">大二海外暑研套磁记录</a></span>
   <span>5/2025</span>
