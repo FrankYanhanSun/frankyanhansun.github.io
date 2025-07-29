@@ -165,21 +165,3 @@ title: SummerResearch
 &emsp;&emsp;[如果觉得文章内容不错，给本网站一颗星支持一下吧 🥰](https://github.com/FrankYanhanSun/frankyanhansun.github.io) 
 <br>[![Star History Chart](https://api.star-history.com/svg?repos=FrankYanhanSun/frankyanhansun.github.io&type=Date)](https://star-history.com/#FrankYanhanSun/frankyanhansun.github.io&Date)
 <br>
-
----
-
-<div id="gitalk-container"></div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-<script>
-  var gitalk = new Gitalk({
-    clientID: 'Ov23lihnmZn9aASGczuq',
-    clientSecret: '4aa9bb229bf645539bd3656036d391d4da46c8c3',
-    repo: 'Gitalk_comment',
-    owner: 'FrankYanhanSun',
-    admin: ['FrankYanhanSun'],
-    id: location.pathname,
-    distractionFreeMode: false
-  });
-  gitalk.render('gitalk-container');
-</script>
