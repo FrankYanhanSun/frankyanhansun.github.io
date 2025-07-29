@@ -41,5 +41,6 @@ The website is published with [GitHub Pages](https://pages.github.com/) and powe
 ---
 
 ## News and Updates
+- **7/2025 - 8/2025**: I am doing my summer research internship in MBZUAI. 
 - **5/2025**: Comment system was added (powered by [Gitalk](https://gitalk.github.io/)). I uploaded my first blog.
 - **2/2025**: The website was built.
