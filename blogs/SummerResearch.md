@@ -89,7 +89,7 @@ title: SummerResearch
 &emsp;&emsp;简历重要性不必多说，建议在网络上挑选模板，根据个人情况真实、详略得当撰写。若未接触过`Latex`，可以用`Latex`模板写简历来练练手。最终导出为`PDF`，作为套磁信的附件发送。<br>
 
 ### 3.套磁信
-&emsp;&emsp;我这里直接给出我的模板供大家参考，灵感来源$^{[12][13][14]}$。<br>
+&emsp;&emsp;我这里直接给出我的模板供大家参考，灵感来源[12][13][14]。<br>
 
 - **Subject**
   A Prospective and Self-funded Student Interested in Your Research Group [Summer Research]
