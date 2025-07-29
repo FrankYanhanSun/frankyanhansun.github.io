@@ -16,21 +16,21 @@ title: SummerResearch
 ## 一、王婆卖瓜
 &emsp;&emsp;为了吸引大家看完，这里先给出**省流版**的套磁结果：共套磁老师17位，收到回复6位，收到面试邀请3位，通过面试1位，最终去向**MBZUAI**。我想借此说明，我的套磁策略、材料准备等还是挺有效的，希望能帮助到大家。
 
-- IIT (Istituto Italiano di Tecnologia) $\times$ 1
-- Scuola Superiore Sant'Anna $\times$ 6
-- CNRS-AIST JRL $\times$ 2
-- BRL (Bristol Robotics Laboratory) $\times$ 1
-- UCL $\times$ 2
-- MBZUAI $\times$ 2
-- QUT (Queensland University of Technology) $\times$ 2
-- UNSW $\times$ 1
+- IIT (Istituto Italiano di Tecnologia) * 1
+- Scuola Superiore Sant'Anna * 6
+- CNRS-AIST JRL * 2
+- BRL (Bristol Robotics Laboratory) * 1
+- UCL * 2
+- MBZUAI * 2
+- QUT (Queensland University of Technology) * 2
+- UNSW * 1
 
 ---
 
 ## 二、我的申请策略
 ### 1.本人的BG
 - 上海某211机械专业大二，GPA：1/79
-- 两段科研，水会$\times$1，省奖$\times$1，小奖若干
+- 两段科研，水会*1，省奖*1，小奖若干
 - 雅思7.5 （小分7+）
 - 方向：robotics, slam, mechatronics, 软硬件相关等
 - 时间：暑期1个月（**大家最好还是准备好2个月的时间，我是由于学校逆天的假期安排导致空闲时间特别短，因此被两位老师拒了**）
