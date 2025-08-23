@@ -19,20 +19,18 @@ The website is published with [GitHub Pages](https://pages.github.com/) and powe
 ---
 
 ## Research Interests
-- Robotics
+- Robotics (rigid & soft robot)
 - System and Control
-- Computer Vision
-- Multisensory Perception
-- IoT
+- CV / SLAM / Multisensory Perception 
+- PCB Design
 - CAD
-- PCB
 <br>
 
 ---
 
 ## Personal Interests
-- Automobile 🚗 (Especially Formula 1 🏁)
-- 3C Product 📱
+- Automobile 🚗 (Especially Formula 1 🏁) |
+- 3C Products 📱
 - Film 🎥 (Especially action Film, thrillers and Sci-Fi)
 - Rock 'n' Roll 🤘 (Especially post rock and indie rock)
 - Football ⚽ (I am a huge fan of FCBarcelona 🔴🔵 !)

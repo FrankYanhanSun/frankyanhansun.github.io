@@ -14,7 +14,7 @@ title: Blogs
 
 <div style="display: flex; justify-content: space-between;">
   <span><a href="https://frankyanhansun.github.io/blogs/SummerResearch" target="_blank" rel="noopener">大二海外暑研套磁记录</a></span>
-  <span>5/2025</span>
+  <span>30/7/2025</span>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
