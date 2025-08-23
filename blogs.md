@@ -5,6 +5,7 @@ title: Blogs
 ---
 # Blogs
 
+<br>
 <div style="display: flex; justify-content: space-between;">
   <span><a href="" target="_blank" rel="noopener">经验分享 | MBZUAI小记</a></span>
   <span>09/2025</span>
@@ -30,7 +31,7 @@ title: Blogs
 ---
 
 <div style="display: flex; justify-content: space-between;">
-  <span><a href="" target="_blank" rel="noopener">影音鉴赏 | 独立摇滚音乐推荐</a></span>
+  <span><a href="" target="_blank" rel="noopener">影音鉴赏 | 独立摇滚专辑推荐</a></span>
   <span>09/2025</span>
 </div>
 
