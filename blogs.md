@@ -9,17 +9,17 @@ title: Blogs
 
 <div style="display: flex; justify-content: space-between;">
   <span><a href="https://frankyanhansun.github.io/blogs/rnn4convex" target="_blank" rel="noopener">一种基于RNN的非线性凸规划的解决方法</a></span>
-  <span>7/2025</span>
+  <span>07/2025</span>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
   <span><a href="https://frankyanhansun.github.io/blogs/SummerResearch" target="_blank" rel="noopener">大二海外暑研套磁记录</a></span>
-  <span>30/7/2025</span>
+  <span>30/07/2025</span>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
   <span><a href="https://frankyanhansun.github.io/blogs/SummerResearchGuide" target="_blank" rel="noopener">暑研指北</a></span>
-  <span>9/5/2025</span>
+  <span>09/05/2025</span>
 </div>
 
 ---

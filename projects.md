@@ -22,6 +22,7 @@ title: Projets
 ### 2025
 - Simulation and experiment on the soft robot
 **(A summer research experience supervised by [Prof. Ke Wu](https://scholar.google.com/citations?user=UOd1SfAAAAAJ&hl=en&oi=sra) in MBZUAI)**
+
 ### 2024
 - Research on diagnosis and localization of moles for robotic mole removal surgery based on YOLOv8<br>**(A research experience supervised by [Prof. Hongliang Ren](https://scholar.google.com/citations?user=rcF7N44AAAAJ&hl=en) with a paper mentioned above)**
 - Research on receiving point cloud data acquired by LiDAR using UDP communication and line point cloud fitting method based on least squares and random sampling consistency algorithm (RANSAC), with the tools of Qt and Point Cloud Library (PCL) <br>**(An internship experience in Nanjing Taiside Intelligent Technology Co., Ltd.)**
