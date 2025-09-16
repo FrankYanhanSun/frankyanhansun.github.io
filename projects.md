@@ -5,10 +5,11 @@ title: Projects
 ---
 
 # Projects
-> Update: 23/08/2025
+> Update: /09/2025
 
 ## Papers
-- **Sun,Y**. (2024).<br>[Research on Diagnosis and Localization of Moles for Robotic Mole Removal Surgery Based on YOLO](https://doi.org/10.54254/2755-2721/111/2024CH0117).<br>Applied and Computational Engineering,111,105-113.
+- [Chen, T., Sun, Z., <u>Sun,Y.</u>, Wang, Y., Song, D., & Wu, K. (2025). A Hybrid Hinge-Beam Continuum Robot with Passive Safety Capping for Real-Time Fatigue Awareness. arXiv preprint arXiv:2509.09404.](https://doi.org/10.48550/arXiv.2509.09404)
+- [<u>Sun,Y.</u> (2024). Research on Diagnosis and Localization of Moles for Robotic Mole Removal Surgery Based on YOLO. Applied and Computational Engineering,111,105-113.](https://doi.org/10.54254/2755-2721/111/2024CH0117)
 
 ---
 
