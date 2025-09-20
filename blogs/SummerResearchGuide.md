@@ -40,7 +40,8 @@ title: SummerResearchGuide
   - [CMU RISS](https://riss.ri.cmu.edu/)<br>**机器人方向，竞争激烈**
   - [北卡州立 GEARS](https://gti.ncsu.edu/gears/)<br>**可线上或线下，寒暑假均有，需自费，时间较短：4周**
   - [UW VISIT](https://www.ielp.uw.edu/programs/research-programs/visit/overview)<br>**时间自由：3周到一年**
-  - [Mitacs](https://www.mitacs.ca/our-programs/globalink-research-internship-students/)<br>**可选择学校包含大部分的加拿大学校，有机会获得[CSC的奖学金](https://www.csc.edu.cn/chuguo/s/3304)，需通过就读学校申请，申请流程繁琐**
+  - [WUSTL International Student Research Internship Program](https://engineering.washu.edu/academics/undergraduate-research/international-student-research-internship-program.html)
+  - [Mitacs Globalink Research Internship](https://www.mitacs.ca/our-programs/globalink-research-internship-students/)<br>**可选择学校包含大部分的加拿大学校，[CSC奖学金](https://www.csc.edu.cn/chuguo/s/3304)完全cover，需通过就读学校申请，申请流程繁琐**
   - 其他项目：Stanford、Caltech、Brown等均有暑研项目
 - 欧洲
   - [ETH Student Summer Research Fellowship](https://inf.ethz.ch/studies/summer-research-fellowship.html)<br>**ETHZ限制中国留学生不知道对此项目有无影响**

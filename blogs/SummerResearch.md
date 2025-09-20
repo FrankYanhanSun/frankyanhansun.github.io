@@ -30,9 +30,9 @@ title: SummerResearch
 ## 二、我的申请策略
 ### 1.本人的BG
 - 上海某211机械专业大二，GPA：1/79
-- 两段科研，水会*1，省奖*1，小奖若干
+- 两段科研，水会 * 1，省奖 * 1，小奖若干
 - 雅思7.5 （小分7+）
-- 方向：robotics, slam, mechatronics, 软硬件相关等
+- 方向：robotics, mechatronics, 软硬件相关等
 - 时间：暑期1个月（**大家最好还是准备好2个月的时间，我是由于学校逆天的假期安排导致空闲时间特别短，因此被两位老师拒了**）
 
 ### 2.自费
@@ -92,30 +92,30 @@ title: SummerResearch
 &emsp;&emsp;我这里直接给出我的模板供大家参考，灵感来源[12][13][14]。<br>
 
 - **Subject**
-  A Prospective and Self-funded Student Interested in Your Research Group [Summer Research]
+  >  A Prospective and Self-funded Student Interested in Your Research Group [Summer Research]
 - Dear Prof. XXX,
 
 - **个人基本信息介绍 + 直接提出诉求：想跟老师做暑研**
-  My name is XXX, a sophomore from XXX University majoring in XXX. I am writing this email to express my desire in the potential self-funded summer research intern opportunity in your research group. My GPA is XXX, and my IELTS score is XXX.<br>
+  > My name is XXX, a sophomore from XXX University majoring in XXX. I am writing this email to express my desire in the potential self-funded summer research intern opportunity in your research group. My GPA is XXX, and my IELTS score is XXX.<br>
 
 
 - **介绍自己的研究兴趣（一定是和老师的方向吻合的）+ 以往的经历（论文、比赛、实习、单纯的科研经历都可以）**
-  I am broadly interested in XXX with several research experiences of XXX. Specifically, I had research on XXX. The paper of the research project has been published on XXX.<br>
+  > I am broadly interested in XXX with several research experiences of XXX. Specifically, I had research on XXX. The paper of the research project has been published on XXX.<br>
 
  
 - **需要定制的，内容为你想从这位老师获得什么（具体的技术、对研究方向的认识、职业规划等），以上仅给出一个例子**
-  Currently, I would like to have a deeper understanding of XXX, especially XXX. To chase for this goal, I am now learning XXX.
+  > Currently, I would like to have a deeper understanding of XXX, especially XXX. To chase for this goal, I am now learning XXX.
 
  
 - **找到导师的一篇论文，分析其中的创新点，说一些恭维的话，让老师知道你对他的工作有所了解**
-  I found your paper, "XXX". I am inspired by XXX. The novel method may help me in my future research. Therefore, I sincerely hope that I can join in your research group and work with you in this summer.
+  > I found your paper, "XXX". I am inspired by XXX. The novel method may help me in my future research. Therefore, I sincerely hope that I can join in your research group and work with you in this summer.
 
  
 - **附上CV和个人网站**
-  To help you know me better. Herewith I enclose my CV. If you are interested you can also visit my personal website at: XXX.
+  > To help you know me better. Herewith I enclose my CV. If you are interested you can also visit my personal website at: XXX.
  
 - **客套话**
-  I understand that you have a busy schedule, so I would greatly appreciate anytime you can reply this email. Thank you very much for your consideration in advance.
+  > I understand that you have a busy schedule, so I would greatly appreciate anytime you can reply this email. Thank you very much for your consideration in advance.
 
 - Sincerely yours,
   XXX
