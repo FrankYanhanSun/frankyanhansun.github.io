@@ -15,6 +15,7 @@ title: Projects
 
 ## Ongoing Projects
 - Research on trajectory planning and control of manipulator with Hqp and RNN
+
 ---
 
 ## Research & Internship
@@ -28,6 +29,7 @@ title: Projects
 - Research on automatic labeling of sealing points in LDAR archived images based on YOLOv8<br>**(As the leader of the team)**
 
 ---
+
 ## Personal Projects
 - Creation for a bluetooth gamepad for controlling everything (robots, games, etc.)
 - [Expanded board for ESP32s3 minimum system board](https://github.com/FrankYanhanSun/ESP32_Expanded_Board)<br>**(Specially for an automatic target-seeking robot car)**

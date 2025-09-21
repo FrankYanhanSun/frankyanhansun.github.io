@@ -29,7 +29,7 @@ The website is published with [GitHub Pages](https://pages.github.com/) and powe
 ---
 
 ## Personal Interests
-- Automobile 🚗 (Especially Formula 1 🏁) |
+- Automobile 🚗 (Especially Formula 1 🏁)
 - 3C Products 📱
 - Film 🎥 (Especially action Film, thrillers and Sci-Fi)
 - Rock 'n' Roll 🤘 (Especially post rock and indie rock)
