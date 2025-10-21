@@ -42,11 +42,15 @@ title: SummerResearchGuide
   - [UW VISIT](https://www.ielp.uw.edu/programs/research-programs/visit/overview)<br>**时间自由：3周到一年**
   - [WUSTL International Student Research Internship Program](https://engineering.washu.edu/academics/undergraduate-research/international-student-research-internship-program.html)
   - [Mitacs Globalink Research Internship](https://www.mitacs.ca/our-programs/globalink-research-internship-students/)<br>**可选择学校包含大部分的加拿大学校，[CSC奖学金](https://www.csc.edu.cn/chuguo/s/3304)完全cover，需通过就读学校申请，申请流程繁琐**
+  - [Vector Institute Research Internship](https://vectorinstitute.ai/programs/research-internships/)<br>**多伦多大学成立的AI研究所，Hinton大佬也挂在这里，有夏秋冬三个时间段**
+  - [Mila Research Internship](https://mila.quebec/en/prospective-students-postdocs/research-internships)<br>**只面向研究生和博士生**
+  - [McGill Undergraduate Research Trainees](https://www.mcgill.ca/student-records/trainees)<br>**官网上说貌似也是招收国际学生的**
   - 其他项目：Stanford、Caltech、Brown等均有暑研项目
 - 欧洲
   - [ETH Student Summer Research Fellowship](https://inf.ethz.ch/studies/summer-research-fellowship.html)<br>**ETHZ限制中国留学生不知道对此项目有无影响**
   - [EPFL Summer@EPFL](https://summer.epfl.ch/)<br>**研究生也可申请，竞争激烈**
   - [EPFL E3 Program](https://eee.epfl.ch/)<br>**研究生也可申请，竞争激烈**
+  - [MPG RIGI](https://rig-internships.com/)<br>**马普所全奖机器人项目，马普所旗下很多分所也有众多暑研项目**
   - [ISTA ISTernship](https://phd.pages.ist.ac.at/isternship/)<br>**主要是理科的方向**
   - [Aalto AScI International Summer Research Programme](https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme)<br>**研究生也可申请**
 - 中东
