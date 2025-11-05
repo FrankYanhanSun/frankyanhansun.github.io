@@ -6,6 +6,10 @@ title: Blogs
 # Blogs
 
 ---
+<div style="display: flex; justify-content: space-between;">
+  <span><a href="" target="_blank" rel="noopener">经验分享 | 机器人方向/导师/实验室---新的观察</a></span>
+  <span>11/2025</span>
+</div>
 
 <div style="display: flex; justify-content: space-between;">
   <span><a href="" target="_blank" rel="noopener">经验分享 | MBZUAI小记</a></span>
@@ -30,6 +34,10 @@ title: Blogs
 </div>
 
 ---
+<div style="display: flex; justify-content: space-between;">
+  <span><a href="" target="_blank" rel="noopener">影音鉴赏 | 干活的小曲推荐</a></span>
+  <span>11/2025</span>
+</div>
 
 <div style="display: flex; justify-content: space-between;">
   <span><a href="" target="_blank" rel="noopener">影音鉴赏 | 独立摇滚专辑推荐</a></span>
