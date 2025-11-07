@@ -19,17 +19,17 @@ title: WorkMusic
 #### The Earth is Not a Cold Dead Place - Explosions in the Sky
 
 <div style="text-align: center;">
-  <img src="https://github.com/FrankYanhanSun/frankyanhansun.github.io/blogs/WorkMusic.assets/TheEarthisNotaColdDeadPlace.jpg" alt="The Earth is Not a Cold Dead Place" width="300">
+  <img src="https://frankyanhansun.github.io/blogs/WorkMusic.assets/TheEarthisNotaColdDeadPlace.jpg" alt="The Earth is Not a Cold Dead Place" width="300">
 </div>
 
 #### Valleyland - Empire Express
 <div style="text-align: center;">
-  <img src="https://github.com/FrankYanhanSun/frankyanhansun.github.io/blogs/WorkMusic.assets/Valleyland.jpg" alt="Valleyland" width="300">
+  <img src="https://frankyanhansun.github.io/blogs/WorkMusic.assets/Valleyland.jpg" alt="Valleyland" width="300">
 </div>
 
 #### The Journey Studies - The Seven Miles Journey
 <div style="text-align: center;">
-  <img src="https://github.com/FrankYanhanSun/frankyanhansun.github.io/blogs/WorkMusic.assets/TheJourneyStudies.jpg" alt="The Journey Studies" width="300">
+  <img src="https://frankyanhansun.github.io/blogs/WorkMusic.assets/TheJourneyStudies.jpg" alt="The Journey Studies" width="300">
 </div>
 
 #### 单曲
