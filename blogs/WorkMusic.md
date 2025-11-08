@@ -68,7 +68,7 @@ title: WorkMusic
 <div style="text-align: center;">
   <img src="https://frankyanhansun.github.io/blogs/WorkMusic.assets/ForEmma.jpg" alt="For Emma, Forever Ago" width="300">
 </div>
-Bon Iver的首传，哀伤的呢喃自语。
+Bon Iver的首专，哀伤的呢喃自语。
 
 #### Bon Iver, Bon Iver - Bon Iver
 <div style="text-align: center;">
@@ -87,7 +87,7 @@ Gregory Alan Isakow最新的专辑，旋律很重复但是就是能吸引人一�
 ---
 
 ## 三、其他
-&emsp;&emsp;除了上面提到的音乐风格，还有一些零散的小曲值得推荐，风格很混在：Midwest Emo、古典、原声、氛围音乐等，请欣赏：
+&emsp;&emsp;除了上面提到的音乐风格，还有一些零散的小曲值得推荐，风格很混在：Midwest Emo、原声、氛围音乐等，请欣赏：
 
 #### Chinese Football - Chinese Football
 <div style="text-align: center;">
@@ -104,7 +104,7 @@ Gregory Alan Isakow最新的专辑，旋律很重复但是就是能吸引人一�
 #### 单曲
 - Sometimes I Forget You've Gone - Dirty Three
   <center>
-    <iframe frameborder="no" border="0" marginwidth="0" <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=520 height=86 src="//music.163.com/outchain/player?type=2&id=17445087&auto=1&height=66"></iframe>
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=520 height=86 src="//music.163.com/outchain/player?type=2&id=17445087&auto=1&height=66"></iframe>
   </center>
 - Another Sky - 葉加瀬太郎
   <center>
