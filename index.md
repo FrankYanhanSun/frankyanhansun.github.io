@@ -39,6 +39,7 @@ The website is published with [GitHub Pages](https://pages.github.com/) and powe
 ---
 
 ## News and Updates
+- **10/11/2025**: International version of LeRobot Anything UArm was launched! Check [here](https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm/tree/main).
 - **9/2025 -**: I am doing internship in [MINT@SJTU](https://mint-sjtu.github.io/).
 - **7/2025 - 8/2025**: I did my summer research internship in MBZUAI. 
 - **5/2025**: Comment system was added (powered by [Gitalk](https://gitalk.github.io/)). I uploaded my first blog.

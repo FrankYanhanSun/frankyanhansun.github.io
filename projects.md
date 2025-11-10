@@ -15,6 +15,7 @@ title: Projects
 
 ## Ongoing Projects
 - Research on trajectory planning and control of manipulator with Hqp and RNN
+- International version of [LeRobot Anything UArm](https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm/tree/main), a low-cost, universal, leader-follower teleoperation system
 
 ---
 
@@ -22,6 +23,8 @@ title: Projects
 ### 2025
 - Simulation and experiment on the soft robot
 **(A summer research internship supervised by [Prof. Ke Wu](https://scholar.google.com/citations?user=UOd1SfAAAAAJ&hl=en&oi=sra) in MBZUAI)**
+- Object detection robotcar with ESP32s3 and K230
+**(A university-level undergraduate innovation project)** 
 
 ### 2024
 - Research on diagnosis and localization of moles for robotic mole removal surgery based on YOLOv8<br>**(A research experience supervised by [Prof. Hongliang Ren](https://scholar.google.com/citations?user=rcF7N44AAAAJ&hl=en))**
