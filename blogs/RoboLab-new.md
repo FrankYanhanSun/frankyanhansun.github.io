@@ -13,6 +13,7 @@
 - [Igor Gilitschenski - University of Toronto](https://scholar.google.com/citations?user=Nuw1Y4oAAAAJ&hl=en)
 - [Yao Mu - Shanghai Jiao Tong University](https://scholar.google.com/citations?user=HK4x3fkAAAAJ&hl=zh-CN)
 - [Huazhe Xu - Tsinghua University](https://scholar.google.com/citations?user=t9HPFawAAAAJ&hl=en)
+
 ## Manipulation
 - [Aude Billard - École Polytechnique Fédérale de Lausanne](https://scholar.google.com.sg/citations?user=tM4JMcQAAAAJ&hl=zh-CN)
 - [Jens Kober - Delft University of Technology](https://scholar.google.com/citations?user=XOWZzUcAAAAJ&hl=en)
@@ -45,6 +46,7 @@
 ## 人形/四足
 - [Guanya Shi - Carnegie Mellon University](https://scholar.google.com/citations?user=joR1Z4UAAAAJ&hl=en)
 - [Linqi Ye - Shanghai University](https://scholar.google.com/citations?user=9ccGVAQAAAAJ&hl=zh-CN)
+
 ## UAV
 - [Davide Scaramuzza - University of Zurich](https://scholar.google.com/citations?user=SC9wV2kAAAAJ&hl=en)
 - [Jinya Su - Southeast University](https://scholar.google.com.hk/citations?user=tTfMHMoAAAAJ&hl=zh-CN)
