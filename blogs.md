@@ -7,8 +7,8 @@ title: Blogs
 
 ---
 <div style="display: flex; justify-content: space-between;">
-  <span><a href="https://frankyanhansun.github.io/blogs/RoboLab-new" target="_blank" rel="noopener">经验分享 | 机器人方向/导师/实验室---新的观察</a></span>
-  <span>11/2025</span>
+  <span><a href="https://frankyanhansun.github.io/blogs/RoboLab-new" target="_blank" rel="noopener">经验分享 | 机器人导师整理---新的观察</a></span>
+  <span>01/12/2025</span>
 </div>
 
 <div style="display: flex; justify-content: space-between;">

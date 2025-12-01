@@ -1,6 +1,14 @@
-# 机器人方向/导师/实验室---新的观察
+# 机器人导师整理---新的观察
+&emsp;&emsp;之前在申请暑研的时候对全球的机器人实验室做个一个整理（Click [Here](https://frankyanhansun.github.io/blogs/SummerResearch/)）。当时几乎什么都不懂，只有一个执念：想做机器人。经过这大半年，我在机器人领域的科研也算是勉强入门了，有了一些模糊的方向，也接触了一些非常厉害的老师们。因此，想对我比较关心的机器人细分领域的老师们做一个整理，主要按照任务/机器人平台来划分。其中有大牛也有青椒，有国内也有国外，没有什么先后顺序，纯粹是想到谁就写了谁。<br>
 
-## Embodied AI（VLA、CV……）
+&emsp;&emsp;祝大家申请季/暑研/Visiting/Internship都能找到心意的导师！听首歌放松一下吧，enjoy！<br>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=520 height=86 src="//music.163.com/outchain/player?type=2&id=2746718833&auto=1&height=66"></iframe>
+
+---
+
+
+## Embodied AI（VLA、CV、Robot Learning……）
 - [Yunzhu Li - Columbia University](https://scholar.google.com/citations?user=WlA92lcAAAAJ&hl=en)
 - [Yuke Zhu - University of Texas at Austin](https://scholar.google.com/citations?user=mWGyYMsAAAAJ)
 - [Manling Li - Northwestern University](https://scholar.google.com/citations?user=6U4SXnUAAAAJ&hl=en)
@@ -56,3 +64,12 @@
 - [Dezhen Song - Mohamed bin Zayed University of Artificial Intelligence](https://scholar.google.com/citations?user=jdSlREMAAAAJ&hl=en)
 - [Ken Goldberg - University of California, Berkeley](https://scholar.google.com/citations?user=8fztli4AAAAJ&hl=en)
 - [Xingxing Zuo - Mohamed bin Zayed University of Artificial Intelligence](https://scholar.google.com/citations?user=CePv8agAAAAJ&hl=zh-CN)
+
+（持续更新ing）<br>
+<p align="right">2025.12.1&emsp;&emsp;上海</p>
+
+---
+
+&emsp;&emsp;[如果觉得文章内容不错，给本网站一颗星支持一下吧 🥰](https://github.com/FrankYanhanSun/frankyanhansun.github.io) 
+<br>[![Star History Chart](https://api.star-history.com/svg?repos=FrankYanhanSun/frankyanhansun.github.io&type=Date)](https://star-history.com/#FrankYanhanSun/frankyanhansun.github.io&Date)
+<br>
