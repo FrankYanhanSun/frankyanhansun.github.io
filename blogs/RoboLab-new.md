@@ -23,6 +23,8 @@
 - [Igor Gilitschenski - University of Toronto](https://scholar.google.com/citations?user=Nuw1Y4oAAAAJ&hl=en)
 - [Yao Mu - Shanghai Jiao Tong University](https://scholar.google.com/citations?user=HK4x3fkAAAAJ&hl=zh-CN)
 - [Huazhe Xu - Tsinghua University](https://scholar.google.com/citations?user=t9HPFawAAAAJ&hl=en)
+- [Mingyu Ding - University of North Carolina at Chapel Hill](https://scholar.google.com/citations?user=w4yTWwoAAAAJ&hl=en)
+- [Zhen Dong - University of California, Santa Barbara](https://scholar.google.com/citations?user=czxMUzcAAAAJ&hl=en)
 
 ## Manipulation
 - [Aude Billard - École Polytechnique Fédérale de Lausanne](https://scholar.google.com.sg/citations?user=tM4JMcQAAAAJ&hl=zh-CN)
@@ -45,7 +47,7 @@
 - [Nima Fazeli - University of Michigan](https://scholar.google.com/citations?user=fE3FSqIAAAAJ&hl=en)
 - [Fei Chen - Chinese University of Hong Kong](https://scholar.google.com/citations?hl=en&user=gcYvU5UAAAAJ)
 
-## 软体
+## 软体/医疗/可穿戴设备/仿生
 - [Peter B. Shull - Shanghai Jiao Tong University](https://scholar.google.com/citations?user=dX4x9z4AAAAJ&hl=en&oi=ao)
 - [Ke Wu - Mohamed bin Zayed University of Artificial Intelligence](https://scholar.google.com/citations?hl=en&user=UOd1SfAAAAAJ&view_op=list_works&sortby=pubdate)
 - [Tiefeng Li - Zhejiang University](https://scholar.google.com/citations?user=vpaskyAAAAAJ&hl=en)
@@ -66,6 +68,7 @@
 - [Dezhen Song - Mohamed bin Zayed University of Artificial Intelligence](https://scholar.google.com/citations?user=jdSlREMAAAAJ&hl=en)
 - [Ken Goldberg - University of California, Berkeley](https://scholar.google.com/citations?user=8fztli4AAAAJ&hl=en)
 - [Xingxing Zuo - Mohamed bin Zayed University of Artificial Intelligence](https://scholar.google.com/citations?user=CePv8agAAAAJ&hl=zh-CN)
+- [Shan Luo - King's College London](https://scholar.google.co.uk/citations?user=ArnkrbwAAAAJ&hl=en)
 
 （持续更新ing）<br>
 <p align="right">2025.12.1&emsp;&emsp;上海</p>
