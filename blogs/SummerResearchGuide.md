@@ -45,6 +45,7 @@ title: SummerResearchGuide
   - [Vector Institute Research Internship](https://vectorinstitute.ai/programs/research-internships/)<br>**多伦多大学成立的AI研究所，Hinton大佬也挂在这里，有夏秋冬三个时间段**
   - [Mila Research Internship](https://mila.quebec/en/prospective-students-postdocs/research-internships)<br>**只面向研究生和博士生**
   - [McGill Undergraduate Research Trainees](https://www.mcgill.ca/student-records/trainees)<br>**官网上说貌似也是招收国际学生的**
+  - [Purdue SURF](https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF)<br>**鉴于普渡的一系列抽象操作，能招多少中国学生呢？**
   - 其他项目：Stanford、Caltech、Brown等均有暑研项目
 - 欧洲
   - [ETH Student Summer Research Fellowship](https://inf.ethz.ch/studies/summer-research-fellowship.html)<br>**ETHZ限制中国留学生不知道对此项目有无影响**
@@ -65,10 +66,11 @@ title: SummerResearchGuide
   - [上交密院 科研见习项目](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-12-02/151065/)<br>**寒假举行，以上为2025年的链接，不知道密院解散对未来该项目开展有无影响。我之前申请没要我:(**
   - [西湖大学 暑期科研实习](https://www.westlake.edu.cn/news_events/westlakenews/zsdt/202503/t20250310_53390.shtml)<br>**2025年暑期科研实习申请网站如上**
   - [NYU Shanghai Undergraduate Summer Sessions](https://shanghai.nyu.edu/page/undergraduate-summer-sessions)
-- 港澳台新（我没有考虑，因此关注不多）
-  - HKU、CUHK、HKUST、PolyU、CityU均有暑研项目
-  - [NTU Summer+ Intensive Research](https://oia.ntu.edu.tw/short-term-programs/courses/8BF146B51660)<br>**鉴于两岸关系，不做推荐**
-  - [NUS SOC Summer Workshop](https://sws.comp.nus.edu.sg/)<br>**CS方向**<br>
+- 港澳台新
+  - [HKUST International Visiting Internship Student Program](https://fytgs.hkust.edu.hk/admissions/short-term-study/international-visiting-internship-student-program)<br>**有津贴**
+  - [NTU (National Taiwan University) Summer+ Intensive Research](https://oia.ntu.edu.tw/short-term-programs/courses/8BF146B51660)<br>**鉴于两岸关系，不做推荐**
+  - [NUS SOC Summer Workshop](https://sws.comp.nus.edu.sg/)<br>**CS方向**
+  - [NUS IRIS](https://nusgs.nus.edu.sg/irisnus/)<br>**多学科+津贴**
 
 &emsp;&emsp;更多官方暑研项目，可通过在Google或Bing搜索`学校名`+`International Summer Research Program`查找，或在后面的参考文献中找到其他大佬整理的相关链接。<br>
 

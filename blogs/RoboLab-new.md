@@ -23,8 +23,12 @@
 - [Igor Gilitschenski - University of Toronto](https://scholar.google.com/citations?user=Nuw1Y4oAAAAJ&hl=en)
 - [Yao Mu - Shanghai Jiao Tong University](https://scholar.google.com/citations?user=HK4x3fkAAAAJ&hl=zh-CN)
 - [Huazhe Xu - Tsinghua University](https://scholar.google.com/citations?user=t9HPFawAAAAJ&hl=en)
+- [Mengdi Xu - Tsinghua University](https://scholar.google.com/citations?hl=zh-CN&user=A1yMyYEAAAAJ)
 - [Mingyu Ding - University of North Carolina at Chapel Hill](https://scholar.google.com/citations?user=w4yTWwoAAAAJ&hl=en)
 - [Zhen Dong - University of California, Santa Barbara](https://scholar.google.com/citations?user=czxMUzcAAAAJ&hl=en)
+- [Yaxin Peng - Shanghai University](https://scholar.google.com/citations?user=4cRt3XoAAAAJ&hl=en)
+- [Yichen Zhu - Midea Group](https://scholar.google.com/citations?hl=en&user=eyKyrbsAAAAJ)
+- [Hao Dong - Peking University](https://scholar.google.com/citations?hl=en&user=xLFL4sMAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Manipulation
 - [Aude Billard - École Polytechnique Fédérale de Lausanne](https://scholar.google.com.sg/citations?user=tM4JMcQAAAAJ&hl=zh-CN)
@@ -54,6 +58,7 @@
 - [Li Wen - Beihang University](https://scholar.google.com/citations?user=u86Pm9UAAAAJ&hl=en)
 - [Hongliang Ren - Chinese University of Hong Kong](https://scholar.google.com/citations?user=rcF7N44AAAAJ&hl=en)
 - [Kai Xu - Shanghai Jiao Tong University](https://scholar.google.com/citations?user=unJtJnEAAAAJ&hl=en)
+- [Long Li - Shanghai University](https://scholar.google.com/citations?user=62FyQgIAAAAJ&hl=en)
 
 ## 人形/四足
 - [Guanya Shi - Carnegie Mellon University](https://scholar.google.com/citations?user=joR1Z4UAAAAJ&hl=en)
