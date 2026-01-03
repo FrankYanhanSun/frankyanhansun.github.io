@@ -6,6 +6,17 @@ title: Blogs
 # Blogs
 
 ---
+
+<div style="display: flex; justify-content: space-between;">
+  <span><a href="https://frankyanhansun.github.io/blogs/SHURobo" target="_blank" rel="noopener">经验分享 | 上海大学机器人导师整理</a></span>
+  <span>12/2025</span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <span><a href="https://frankyanhansun.github.io/blogs/UTSEUSWiki" target="_blank" rel="noopener">经验分享 | 上海大学中欧生存指南</a></span>
+  <span>12/2025</span>
+</div>
+
 <div style="display: flex; justify-content: space-between;">
   <span><a href="https://frankyanhansun.github.io/blogs/RoboLab-new" target="_blank" rel="noopener">经验分享 | 机器人导师整理---新的观察</a></span>
   <span>01/12/2025</span>

@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /blogs/RoboLb-new/index.html
+title: RoboLab-new
+---
+
 # 机器人导师整理---新的观察
 &emsp;&emsp;之前在申请暑研的时候对全球的机器人实验室做个一个整理（Click [Here](https://frankyanhansun.github.io/blogs/SummerResearch/)）。当时几乎什么都不懂，只有一个执念：想做机器人。经过这大半年，我在机器人领域的科研也算是勉强入门了，有了一些模糊的方向，也接触了一些非常厉害的老师们。因此，想对我比较关心的机器人细分领域的老师们做一个整理，主要按照任务/机器人平台来划分。其中有大牛也有青椒，有国内也有国外，没有什么先后顺序，纯粹是想到谁就写了谁。<br>
 
