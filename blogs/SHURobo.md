@@ -15,7 +15,7 @@ title: SHURobo
 &emsp;&emsp;我在这里罗列的老师们肯定不是全部，尤其是计算机学院和通信学院我都没有详细扒。可以作为选择本/硕/博科研导师的参考，希望能帮助到大家。顺便听个歌吧，enjoy！<br>
 
 <center>
-    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=520 height=86 src="//music.163.com/outchain/player?type=2&id=2147020839&auto=1&height=66"></iframe>
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=520 height=86 src="//music.163.com/outchain/player?type=2&id=2147020839&auto=0&height=66"></iframe>
 </center>
 
 ---
@@ -97,7 +97,7 @@ title: SHURobo
 - [Google Scholar](https://scholar.google.com/citations?user=S6oTXvYAAAAJ&hl=en)
 - 学校主页：[机械与自动化学院](https://auto.shu.edu.cn/info/1341/12862.htm)
 - [课题组主页](https://xrg.shu.edu.cn/index/1.htm)
-- 研究方向：sofy robot
+- 研究方向：soft robot
 - 代表作：
   - <u>Shi, H.</u>, Meng, Y., Cui, W., Rao, M., Wang, S., & Xie, Y. (2025). Biomimetic Underwater Soft Snake Robot: Self-Motion Sensing and Online Gait Control. IEEE Transactions on Robotics.
 

@@ -42,8 +42,11 @@ title: UTSEUSWiki
 
 #### 5.线性代数（法方）
 [Youtube | MIT Gilbert Strang-18.06](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8)
+
 [Youtube | 3B1B-Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
 [b站 | UTC-Algèbre linéaire](https://www.bilibili.com/video/BV1cG411w7Gj/?vd_source=a416fcb6c88258170a1902d8753f0269)
+
 [b站 | 国立阳明交通大学 周志成-线性代数（Gilbert Strang）](https://www.bilibili.com/video/BV1c14y1h7bd/?spm_id_from=333.1387.favlist.content.click&vd_source=a416fcb6c88258170a1902d8753f0269)
 
 [Introduction to Linear Algebra]()
@@ -57,10 +60,12 @@ title: UTSEUSWiki
 ### 大三
 #### 1.机械设计（王亚珍、余光伟）
 - 理论：[b站 | 吉林大学 谭庆昌-机械设计](https://www.bilibili.com/video/BV1FW41127QB/?spm_id_from=333.788.top_right_bar_window_default_collection.content.click&vd_source=a416fcb6c88258170a1902d8753f0269)
+
 - 作图：[b站 | 天上一白-机械设计课程设计](https://www.bilibili.com/video/BV1A44y197Hb/?spm_id_from=333.788.top_right_bar_window_default_collection.content.click&vd_source=a416fcb6c88258170a1902d8753f0269)
 
 #### 2.机械系统的运动学和动力学（法方）
 这门课其实就是国内理论力学中的内容，但是中欧的理论力学没有介绍完整，把一些内容放在的这门课。法方的内容全部围绕Torseur这个内容展开，与国内体系很不一样。
+
 [b站 | 河海大学 楼力律-理论力学](https://www.bilibili.com/video/BV1pysRzMELy/?vd_source=a416fcb6c88258170a1902d8753f0269)
 
 #### 3.项目管理（法方）
