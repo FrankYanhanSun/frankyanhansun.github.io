@@ -15,20 +15,18 @@ title: UTSEUSWiki
 上大的高数我个人认为不是很难，尤其是中欧的比大类的《微积分》还更简单一点。
 
 课程：
-
-- [b站 | 山东财经大学 宋浩-高等数学](https://www.bilibili.com/video/BV1Eb411u7Fw/) <br>流传度最广的高数视频，不一定是讲的最好的，但至少能听懂。
+- [b站 | 山东财经大学 宋浩-高等数学](https://www.bilibili.com/video/BV1Eb411u7Fw/)
+流传度最广的高数视频，不一定是讲的最好的，但至少能听懂。
 
 参考书/教材/习题册：
-
 - [《普林斯顿微积分读本》-人民邮电出版社](https://detail.tmall.com/item.htm?id=542442529630)
-
-- [《微积分习题册》-上海大学出版社](https://detail.tmall.com/item.htm?id=764925745207) <br>强烈建议作为期末复习多刷一刷，题型、难度和考试类似。
+- [《微积分习题册》-上海大学出版社](https://detail.tmall.com/item.htm?id=764925745207)
+强烈建议作为期末复习多刷一刷，题型、难度和考试类似。
 
 #### 2.工程制图与计算机绘图基础（沙凤龙）
 
 课程：
 - [b站 | 哈尔滨工业大学-画法几何及机械制图](https://www.bilibili.com/video/BV1up4y1C7y7)
-
 - [b站 | 大连理工大学 王殿龙-画法几何及工程制图](https://www.bilibili.com/video/BV1nP411n73c/)
 
 #### 3.大学物理（法方）
@@ -36,7 +34,8 @@ title: UTSEUSWiki
 #### 4.算法入门（法方）
 
 教程：
-- [《Hello算法》](https://www.hello-algo.com/) <br>算法、数据结构可视化教程
+- [《Hello算法》](https://www.hello-algo.com/)
+算法、数据结构可视化教程
 
 ---
 
@@ -59,15 +58,13 @@ title: UTSEUSWiki
 
 课程：
 - [Youtube | MIT Gilbert Strang-18.06](https://www.youtube.com/watch?v=7UJ4CFRGd-U)
-
 - [Youtube | 3B1B-Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs)
-
 - [b站 | UTC-Algèbre linéaire](https://www.bilibili.com/video/BV1cG411w7Gj/)
-
 - [b站 | 阳明交通大学 周志成-线性代数](https://www.bilibili.com/video/BV1c14y1h7bd/)
 
 参考书/教材：
-- [《Introduction to Linear Algebra》-清华大学出版社](https://detail.tmall.com/item.htm?id=830377631797) <br>这本书是MIT18.06课程的教材，但好像一直没有中文版，只有民间自行翻译的版本，可自行查找。
+- [《Introduction to Linear Algebra》-清华大学出版社](https://detail.tmall.com/item.htm?id=830377631797)
+这本书是MIT18.06课程的教材，但好像一直没有中文版，只有民间自行翻译的版本，可自行查找。
 
 #### 6.概率论与数理统计（陈伟）
 
@@ -84,14 +81,12 @@ title: UTSEUSWiki
 我已开源完整课程设计，包括设计说明书、装配图、零件图，详见仓库[GearboxDrawing](https://github.com/FrankYanhanSun/GearboxDrawing)。
 
 课程：
-
 - 理论：[b站 | 吉林大学 谭庆昌-机械设计](https://www.bilibili.com/video/BV1FW41127QB/)
-
 - 作图：[b站 | 天上一白-机械设计课程设计](https://www.bilibili.com/video/BV1A44y197Hb/)
 
 参考书：
-
-- [《机械设计课程设计（第6版）》-机械工业出版社](https://item.taobao.com/item.htm?id=691022636697) <br>推荐将本书作为课程设计的参考，流程、标准都很详细
+- [《机械设计课程设计（第6版）》-机械工业出版社](https://item.taobao.com/item.htm?id=691022636697)
+推荐将本书作为课程设计的参考，流程、标准都很详细
 
 #### 2.机械系统的运动学和动力学（法方）
 这门课其实就是国内理论力学中的内容，但是中欧的理论力学没有介绍完整，把一些内容放在的这门课。法方的内容全部围绕Torseur这个内容展开，与国内体系很不一样。
@@ -141,36 +136,22 @@ title: UTSEUSWiki
 课程：
 - [b站 | 哈尔滨工业大学 姜三勇-电工学](https://www.bilibili.com/video/BV1et411z7Nz/)
 
-
 ---
 
 ## 课外学习
 ### 课程
 
-包括我看过的以及想看的一些内容，大家一起持续学习！
-
 - [b站 | 南京大学 王慧妍-ICS2024](https://www.bilibili.com/video/BV11BpFe4EmM)
-
 - [b站 | 一只学弱狗-嵌入式C语言](https://www.bilibili.com/video/BV1RW411G7cr)
-
 - [b站 | 西湖大学 赵世钰-强化学习的数学原理](https://www.bilibili.com/video/BV1sd4y167NS/)
-
 - [b站 | 普中科技-Arduino（ESP32）](https://www.bilibili.com/video/BV1Pw4m1D7Ge/)
-
 - [b站 | keysking-STM32入门教程（HAL库）](https://www.bilibili.com/video/BV12v4y1y7uV)
-
 - [b站 | 江协科技-STM32入门教程（标准库）](https://www.bilibili.com/video/BV1th411z7sn/)
-
 - [b站 | Expert电子实验室-PCB设计（嘉立创EDA）](https://www.bilibili.com/video/BV1fFAfeZEBE/)
-
 - [b站/公众号 | 数学建模清风-数学建模](https://space.bilibili.com/52614961)
-
 - [b站 | 同济子豪兄-YOLO](https://www.bilibili.com/video/BV15w411Z7LG/)
-
 - [Youtube | Northwestern Kevin Lynch-Modern Robotics](https://www.youtube.com/watch?v=jVu-Hijns70)
-
 - [b站 | UCSB 闫令琪-GAMES101 现代计算机图形学入门](https://www.bilibili.com/video/BV1X7411F744/)
-
 - [b站 | 上海交通大学 何建平-现代控制理论](https://www.bilibili.com/video/BV1fHZKYNEaM/)
 
 ### 竞赛
