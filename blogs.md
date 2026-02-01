@@ -8,6 +8,11 @@ title: Blogs
 ---
 
 <div style="display: flex; justify-content: space-between;">
+  <span><a href="https://frankyanhansun.github.io/blogs/FxxkAgents" target="_blank" rel="noopener">经验分享 | 为什么我平等的讨厌所有的中介（保研/留学）？</a></span>
+  <span>02/2026</span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
   <span><a href="https://frankyanhansun.github.io/blogs/SHURobo" target="_blank" rel="noopener">经验分享 | 上海大学机器人导师整理</a></span>
   <span>03/01/2026</span>
 </div>
@@ -18,7 +23,7 @@ title: Blogs
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <span><a href="https://frankyanhansun.github.io/blogs/RoboLab-new" target="_blank" rel="noopener">经验分享 | 机器人导师整理---新的观察</a></span>
+  <span><a href="https://frankyanhansun.github.io/blogs/RoboLab-new" target="_blank" rel="noopener">经验分享 | 机器人导师整理——新的观察</a></span>
   <span>01/12/2025</span>
 </div>
 
@@ -45,6 +50,12 @@ title: Blogs
 </div>
 
 ---
+
+<div style="display: flex; justify-content: space-between;">
+  <span><a href="" target="_blank" rel="noopener">影音鉴赏 | "What will you have after 500 years?" ———《无敌少侠》</a></span>
+  <span>02/2026</span>
+</div>
+
 <div style="display: flex; justify-content: space-between;">
   <span><a href="" target="_blank" rel="noopener">影音鉴赏 | 2025年，我听过的新专辑</a></span>
   <span>12/2025</span>
@@ -63,7 +74,7 @@ title: Blogs
 ---
 
 <div style="display: flex; justify-content: space-between;">
-  <span><a href="" target="_blank" rel="noopener">Captain Power | GTR小传</a></span>
+  <span><a href="" target="_blank" rel="noopener">Captain Power | GTR编年史</a></span>
   <span>12/2025</span>
 </div>
 

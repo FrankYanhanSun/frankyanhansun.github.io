@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-Hi！Here is **Yanhan Sun (Frank, 孙彦涵)**, a junior student from Sino-European School of Technology of Shanghai, Shanghai University. I now major in mechanical engineering but I am interested in almost every subject in engineering (like EE, CS and so on). <br>
+Hi！Here is **Yanhan Sun (Frank, 孙彦涵)**, a 3rd-year banchelor student from Sino-European School of Technology of Shanghai, Shanghai University. I major in mechanical engineering but I am interested in almost every subject in engineering (like EE, CS and so on). <br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to contact me on my email listed on the left.<br>
 
@@ -23,7 +23,6 @@ The website is published with [GitHub Pages](https://pages.github.com/) and powe
 - System and Control
 - CV / SLAM / Multisensory Perception
 - Embodied AI
-- PCB Design
 <br>
 
 ---

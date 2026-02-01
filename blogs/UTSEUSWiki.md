@@ -182,6 +182,7 @@ title: UTSEUSWiki
 - [Youtube-Northwestern Kevin Lynch-Modern Robotics](https://www.youtube.com/watch?v=jVu-Hijns70)
 - [b站-UCSB 闫令琪-GAMES101 现代计算机图形学入门](https://www.bilibili.com/video/BV1X7411F744/)
 - [b站-上海交通大学 何建平-现代控制理论](https://www.bilibili.com/video/BV1fHZKYNEaM/)
+- [b站-CMU Guanya Shi 16-831 Introduction to Robot Learning](https://www.bilibili.com/video/BV1RWGqzyEYh?vd_source=a416fcb6c88258170a1902d8753f0269&spm_id_from=333.788.videopod.episodes) ([link](https://16-831.github.io/spring25/))
 
 ### 竞赛
 - 数学建模：国赛/美赛
