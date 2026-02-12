@@ -59,6 +59,9 @@ title: UTSEUSWiki
 - [b站-大连理工大学 王殿龙-画法几何及工程制图](https://www.bilibili.com/video/BV1nP411n73c/)
 
 #### 3.大学物理（法方）
+比较简单，用微积分把高中的运动学重新讲一遍。我记得没有力学的内容。可参考大类的《大物1力学》，本校老师录制的网课：
+
+[b站-上海大学 张弘-大学物理（1）](https://space.bilibili.com/1532021508/lists/933419?type=season)
 
 #### 4.算法入门（法方）
 
@@ -72,8 +75,14 @@ title: UTSEUSWiki
 #### 1.机械制图A（林成辉）
 
 #### 2.大学物理（贾蓉蓉、曾志刚）
+《大物2》是电磁学，《大物3》是热学、光学和近代物理。
 
-课程：
+本校老师录制的网课：
+- [b站-上海大学 张弘-大学物理（2）](https://space.bilibili.com/1532021508/lists/470015?type=season)
+- [b站-上海大学 张弘-大学物理（3）](https://space.bilibili.com/1532021508/lists/729727?type=season)
+
+
+其他课程：
 - [b站-东北大学 大学物理](https://www.bilibili.com/video/BV1qW411H7UX/)
 
 #### 3.CATIA三维造型设计（何岚岚）
@@ -169,6 +178,7 @@ title: UTSEUSWiki
 
 ## 课外学习
 ### 课程
+这里收录一些我自学过以及我想学的公开课程，也希望能对大家有所帮助。
 
 - [b站-南京大学 王慧妍-ICS2024](https://www.bilibili.com/video/BV11BpFe4EmM)
 - [b站-一只学弱狗-嵌入式C语言](https://www.bilibili.com/video/BV1RW411G7cr)
@@ -182,7 +192,7 @@ title: UTSEUSWiki
 - [Youtube-Northwestern Kevin Lynch-Modern Robotics](https://www.youtube.com/watch?v=jVu-Hijns70)
 - [b站-UCSB 闫令琪-GAMES101 现代计算机图形学入门](https://www.bilibili.com/video/BV1X7411F744/)
 - [b站-上海交通大学 何建平-现代控制理论](https://www.bilibili.com/video/BV1fHZKYNEaM/)
-- [b站-CMU Guanya Shi 16-831 Introduction to Robot Learning](https://www.bilibili.com/video/BV1RWGqzyEYh?vd_source=a416fcb6c88258170a1902d8753f0269&spm_id_from=333.788.videopod.episodes) ([link](https://16-831.github.io/spring25/))
+- [b站-CMU Guanya Shi-16-831 Introduction to Robot Learning](https://www.bilibili.com/video/BV1RWGqzyEYh?vd_source=a416fcb6c88258170a1902d8753f0269&spm_id_from=333.788.videopod.episodes) ([link](https://16-831.github.io/spring25/))
 
 ### 竞赛
 - 数学建模：国赛/美赛
