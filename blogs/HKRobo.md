@@ -56,6 +56,9 @@ title: HKRobo
 ## PolyU
 - David Navarro-Alarcon
 
+## 参考文献
+[1] [知乎|Biang哥 @香港那边有没有做Robotics厉害的AP？](https://www.zhihu.com/question/634288210/answer/3400224596?utm_psn=1824003738987286531)
+
 （完，感谢你看到这里）<br>
 <p align="right">2026.2.26&emsp;&emsp;南京</p>
 
