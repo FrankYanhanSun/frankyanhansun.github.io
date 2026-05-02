@@ -37,6 +37,8 @@ title: UTSEUSWiki
 
 ## 就读体验：该不该来？来了怎么样？
 
+---
+
 ## 课程（机械）
 ### 大一
 #### 1.高等数学（袁西英）
@@ -63,7 +65,7 @@ title: UTSEUSWiki
 
 [b站-上海大学 张弘-大学物理（1）](https://space.bilibili.com/1532021508/lists/933419?type=season)
 
-#### 4.算法入门（法方）
+#### 4.算法入门（法方英授）
 
 教程：
 - [《Hello算法》](https://www.hello-algo.com/)
@@ -141,6 +143,14 @@ title: UTSEUSWiki
 
 #### 4.工程化学（王晓红）
 
+#### 5.质量管理（法方）
+
+#### 6.价值与作用分析（法方）
+
+#### 7.数值分析（法方）
+
+#### 8.CAO与机械元器件（法方）
+
 ---
 
 ### 通识课/文科课/实习
@@ -174,11 +184,19 @@ title: UTSEUSWiki
 课程：
 - [b站-哈尔滨工业大学 姜三勇-电工学](https://www.bilibili.com/video/BV1et411z7Nz/)
 
+#### 6.电工技术（高志远）
+知识密度和体量都很低的一门课，难度较低。包括直流和交流电路的基本电路分析。
+
+课程：
+- [b站-哈尔滨工业大学 姜三勇-电工学](https://www.bilibili.com/video/BV1et411z7Nz/)
+
+#### 7.机械测试技术（宋薇）
+
 ---
 
 ## 课外学习
 ### 课程
-这里收录一些我自学过以及我想学的公开课程，也希望能对大家有所帮助。
+这里收录一些我自学过以及我想学的公开课程，也希望能对大家有所帮助。CS相关可参考[CS自学指南](https://csdiy.wiki/)。
 
 - [b站-南京大学 王慧妍-ICS2024](https://www.bilibili.com/video/BV11BpFe4EmM)
 - [b站-一只学弱狗-嵌入式C语言](https://www.bilibili.com/video/BV1RW411G7cr)
@@ -193,6 +211,7 @@ title: UTSEUSWiki
 - [b站-UCSB 闫令琪-GAMES101 现代计算机图形学入门](https://www.bilibili.com/video/BV1X7411F744/)
 - [b站-上海交通大学 何建平-现代控制理论](https://www.bilibili.com/video/BV1fHZKYNEaM/)
 - [b站-CMU Guanya Shi-16-831 Introduction to Robot Learning](https://www.bilibili.com/video/BV1RWGqzyEYh?vd_source=a416fcb6c88258170a1902d8753f0269&spm_id_from=333.788.videopod.episodes) ([link](https://16-831.github.io/spring25/))
+- [Youtube-Stanford Fei-fei Li et el.-CS231n Deep Learning for Computer Vision](https://www.youtube.com/watch?v=2fq9wYslV0A&list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) ([link](https://cs231n.stanford.edu/))
 
 ### 竞赛
 - 数学建模：国赛/美赛
@@ -200,7 +219,7 @@ title: UTSEUSWiki
 - 工创赛
 - 睿抗
 - 机创
-- 画图
+- 成图
 
 ### 科研/实习
 
@@ -210,4 +229,4 @@ title: UTSEUSWiki
 
 ## 生活
 
-## 乱七八糟
+## Misc
