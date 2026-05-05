@@ -56,9 +56,12 @@ title: UTSEUSWiki
 
 #### 2.工程制图与计算机绘图基础（沙凤龙）
 
+根据其他同学的反馈，建议避雷方建华老师授课（据说啥也不教比较会PUA）。
+
 课程：
 - [b站-哈尔滨工业大学-画法几何及机械制图](https://www.bilibili.com/video/BV1up4y1C7y7)
 - [b站-大连理工大学 王殿龙-画法几何及工程制图](https://www.bilibili.com/video/BV1nP411n73c/)
+- [b站-上海大学 靠谱李学长-工程制图自制课程，帮助小白通过考试](https://www.bilibili.com/video/BV1mY411R7Rg/?vd_source=a416fcb6c88258170a1902d8753f0269)
 
 #### 3.大学物理（法方）
 比较简单，用微积分把高中的运动学重新讲一遍。我记得没有力学的内容。可参考大类的《大物1力学》，本校老师录制的网课：
@@ -66,6 +69,8 @@ title: UTSEUSWiki
 [b站-上海大学 张弘-大学物理（1）](https://space.bilibili.com/1532021508/lists/933419?type=season)
 
 #### 4.算法入门（法方英授）
+
+对我本人来说永远的痛（认真学了一学期只拿了3.0😭）。笔试主要考察使用伪代码完成各种程序逻辑（排序、数据结构等），同时也有上机考察简单的C语言。
 
 教程：
 - [《Hello算法》](https://www.hello-algo.com/)
@@ -75,6 +80,8 @@ title: UTSEUSWiki
 
 ### 大二
 #### 1.机械制图A（林成辉）
+
+在《工程制图》的基础上要求装配图的绘制，同时还有关于公差等书面知识的考查。
 
 #### 2.大学物理（贾蓉蓉、曾志刚）
 《大物2》是电磁学，《大物3》是热学、光学和近代物理。
@@ -89,18 +96,24 @@ title: UTSEUSWiki
 
 #### 3.CATIA三维造型设计（何岚岚）
 
+应该将是你第一个系统学习的CAD软件。课后作业的工作量还是比较大的，需要花一定时间对软件熟悉。
+
 #### 4.工程力学（罗柏华）
+
+推荐罗柏华老师，第一节和最后一节会夹带一些有意思的私货，可以期待一下他那张“焚化炉”的抽象图片。完全理解上课内容即可。
 
 课程：
 - [b站-大连理工大学 黄丽华-工程力学](https://www.bilibili.com/video/BV1Sk4y1r7Qz)
 
 #### 5.线性代数（法方）
 
+从这门课开始，你将开始赤法方课这一大坨石。法方课分为理论课（法国老师法语/英语讲授）和习题课（称为TD课，两个班次分别由法国老师/中国老师讲授）。注意可能你的TD会被随机到法国老师或中国老师（理论课是一致的），但是要想尽办法去上中国老师的TD（给杜水淼老师点赞！），理论课不是很重要但是TD一定要好好上。但抛开语言，不像国内线性代数课程的脑残课程设计从行列式直接开始教，法方的线性代数会从群的视角切入帮助你建立“空间、变换”等线代的本质，这一点还是很不错的。
+
 课程：
-- [Youtube-MIT Gilbert Strang-18.06](https://www.youtube.com/watch?v=7UJ4CFRGd-U)
+- [Youtube-MIT Gilbert Strang-18.06](https://www.youtube.com/watch?v=7UJ4CFRGd-U)<br>可能是地球上公认的最棒的线代课程
 - [Youtube-3B1B-Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs)
 - [b站-UTC-Algèbre linéaire](https://www.bilibili.com/video/BV1cG411w7Gj/)
-- [b站-阳明交通大学 周志成-线性代数](https://www.bilibili.com/video/BV1c14y1h7bd/)
+- [b站-阳明交通大学 周志成-线性代数](https://www.bilibili.com/video/BV1c14y1h7bd/)<br>注意湾湾的行与列与我们的概念是颠倒的
 
 参考书/教材：
 - [《Introduction to Linear Algebra》-清华大学出版社](https://detail.tmall.com/item.htm?id=830377631797)
@@ -108,17 +121,21 @@ title: UTSEUSWiki
 
 #### 6.概率论与数理统计（陈伟）
 
+完全理解上课内容即可。
+
 课程：
 - [b站-中国科学技术大学 缪柏其-数理统计](https://www.bilibili.com/video/BV1Zq4y1C7Bs/)
 
 #### 7.机械原理（刘吉成）
+
+完全理解上课内容即可。刘吉成老师非常推荐。
 
 ---
 
 ### 大三
 #### 1.机械设计（王亚珍、余光伟）
 
-我已开源完整课程设计，包括设计说明书、装配图、零件图，详见仓库[GearboxDrawing](https://github.com/FrankYanhanSun/GearboxDrawing)。
+**恭喜你，你将完全在课堂上学不到任何知识（理论是不可能听懂的，画图也是完全不教的）！** 一定要主动自学。我已开源完整课程设计，包括设计说明书、装配图、零件图，详见仓库[GearboxDrawing](https://github.com/FrankYanhanSun/GearboxDrawing)。
 
 课程：
 - 理论：[b站-吉林大学 谭庆昌-机械设计](https://www.bilibili.com/video/BV1FW41127QB/)
@@ -129,19 +146,22 @@ title: UTSEUSWiki
 推荐将本书作为课程设计的参考，流程、标准都很详细
 
 #### 2.机械系统的运动学和动力学（法方）
-这门课其实就是国内理论力学中的内容，但是中欧的理论力学没有介绍完整，把一些内容放在的这门课。法方的内容全部围绕Torseur这个内容展开，与国内体系很不一样。
+
+这门课其实就是国内理论力学中的内容，但是中欧的《理论力学》没有介绍完整，把一些内容放在的这门课。法方的内容全部围绕Torseur这个内容展开，与国内体系很不一样。比较让人费解的是为什么要求我们疯狂手算本该交给动力学方程解决的内容，计算量真的很大而且全是符号。
 
 课程：
 - [b站-河海大学 楼力律-理论力学](https://www.bilibili.com/video/BV1pysRzMELy/)
 
 #### 3.项目管理（法方）
 
-务必认真完成所有TD以及小组作业，可参考[往届作业](https://onedrive.live.com/?id=79D667688CF2FB05%2168237&cid=79D667688CF2FB05&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy83OWQ2Njc2ODhjZjJmYjA1L0VnWDc4b3hvWjlZZ2dIbU5DZ0VBQUFBQnpXT0dfMzc4VFUxQWhOSjZ1cVp4RXc)。
+务必认真完成所有TD以及小组作业，可参考[往届作业](https://onedrive.live.com/?id=79D667688CF2FB05%2168237&cid=79D667688CF2FB05&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy83OWQ2Njc2ODhjZjJmYjA1L0VnWDc4b3hvWjlZZ2dIbU5DZ0VBQUFBQnpXT0dfMzc4VFUxQWhOSjZ1cVp4RXc)。考试占比较少，掌握基础的内容即可，其他你听不懂的内容别人也不可能听懂。这门课唯一好的是有比较统一良好的管理系统，可以很清楚的知道每一周要完成的内容。后面此类文科法方课程就再也享受不到了。
 
 复习课：
 - [b站-上海大学 许婧靓-项目管理复习课](https://www.bilibili.com/video/BV11a4y1Q7ww/)
 
-#### 4.工程化学（王晓红）
+#### 4.工程化学（实验）（王晓红）
+
+完全理解上课内容即可。高中没有选修化学的同学完全不用担心，不是很难（我就高中没学过）；高中学过的同学更是直接秒杀了。
 
 #### 5.质量管理（法方）
 
@@ -158,10 +178,15 @@ title: UTSEUSWiki
 ---
 
 ### 选修课
+
+虽然学院推荐大二大三大四的选修课学分是10+25+10，但亲身测试了一下完全可以在大四前全部把选修课修完，这样大四就可以完全空出来实习了。当然还是要用比赛抵充一部分的，政策是：最高可抵充9分的选修课，省三校二可抵2分，国三省二校一可抵充3分，国二省一可抵4分，国一可抵6分，特等奖视同一等奖。更多抵充政策详见[学生手册](https://bksy.shu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1662210750&wbfileid=EF0392623F7DB9ED5FBBC3890EE5D6CD)（科研等抵充方式）。
+
 #### 1.微机原理及应用（张震）
 
+8051芯片。老师讲的很糟糕，但是考核比较简单（也完全没有考勤），需要花一定线下时间自学。比较麻烦的是讲汇编语言的编程，但确实对理解硬件有帮助。
+
 课程：
-- [b站-天津科技大学 孙涌-单片机原理及应用](https://www.bilibili.com/video/BV1te4y1y7n7/)
+- [b站-天津科技大学 孙涌-单片机原理及应用](https://www.bilibili.com/video/BV1te4y1y7n7/) <br>完全相同的89C52芯片，推荐
 
 #### 2.机器人工学（宋薇）
 
@@ -170,10 +195,14 @@ title: UTSEUSWiki
 
 #### 3.机械CAD/CAM（李宝福）
 
+包含两部分：creo的基本操作（不考）、CAD中的一些数学基础（约束与自由度、插值等）。
+
 课程：
 - [b站-杜术森-Creo软件从入门到精通](https://www.bilibili.com/video/BV1HY4y1q76Q)
 
 #### 4.C语言程序设计（邹启明）
+
+比较原始的那种编程课，讲授语法和一些算法。C语言还是建议好好学，给单片机/C++打好基础。
 
 课程：
 - [b站-C语言鹏哥](https://www.bilibili.com/video/BV1Vm4y1r7Yy/)
@@ -191,6 +220,10 @@ title: UTSEUSWiki
 - [b站-哈尔滨工业大学 姜三勇-电工学](https://www.bilibili.com/video/BV1et411z7Nz/)
 
 #### 7.机械测试技术（宋薇）
+
+#### 8.机械基础创新与实践
+
+可通过参加工程赛，在该课程上进行比赛内容的准备，一举两得同时获得学分。注意需和指导老师商量。
 
 ---
 
@@ -214,9 +247,10 @@ title: UTSEUSWiki
 - [Youtube-Stanford Fei-fei Li et el.-CS231n Deep Learning for Computer Vision](https://www.youtube.com/watch?v=2fq9wYslV0A&list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) ([link](https://cs231n.stanford.edu/))
 
 ### 竞赛
+- 企创
 - 数学建模：国赛/美赛
 - RoboMaster
-- 工创赛
+- 工创
 - 睿抗
 - 机创
 - 成图
