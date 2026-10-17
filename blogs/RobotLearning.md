@@ -1,8 +1,8 @@
 ---
-
-## layout: page
+layout: page
 permalink: /blogs/RobotLearning/index.html
 title: RobotLearning
+---
 
 # 具身智能补完计划
 
