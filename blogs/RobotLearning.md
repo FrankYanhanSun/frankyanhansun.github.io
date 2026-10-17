@@ -111,6 +111,8 @@ title: RobotLearning
 
 李群李代数/流形
 
+雅可比
+
 ## AI
 
 [Youtube-Stanford Fei-fei Li et el.-CS231n Deep Learning for Computer Vision](https://www.youtube.com/watch?v=2fq9wYslV0A&list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) [(Link)](https://cs231n.stanford.edu/)
@@ -124,3 +126,6 @@ Generative Model
 
 
 ## python/pytorch
+
+
+## c++
