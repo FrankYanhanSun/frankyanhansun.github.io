@@ -8,6 +8,11 @@ title: Blogs
 ---
 
 <div style="display: flex; justify-content: space-between;">
+  <span><a href="https://frankyanhansun.github.io/blogs/RobotLearning" target="_blank" rel="noopener">经验分享 | 具身智能补完计划</a></span>
+  <span>10/2026</span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
   <span><a href="https://frankyanhansun.github.io/blogs/HKRobo" target="_blank" rel="noopener">经验分享 | 香港机器人导师整理</a></span>
   <span>25/02/2026</span>
 </div>
