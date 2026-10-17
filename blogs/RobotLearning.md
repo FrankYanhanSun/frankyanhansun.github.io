@@ -10,13 +10,13 @@ title: RobotLearning
 
 ## Robot Learning
 
-课程：[Youtube-ETHZ Oier Mees-Robot Learning](https://www.youtube.com/watch?v=X0k14u6pSxw&list=PLPU18BnWYUZJx3_d901-GD6BGpeWwE2vx)
+课程：[Youtube-ETHZ Oier Mees-Robot Learning](https://www.youtube.com/watch?v=X0k14u6pSxw&list=PLPU18BnWYUZJx3_d901-GD6BGpeWwE2vx) [(Link)](https://cvg.ethz.ch/lectures/Robot-Learning/)
 
 ### 课程内容
 
 - **1** Introduction to Robot Learning [Slides](https://cvg.ethz.ch/lectures/Robot-Learning/lectures/lecture1_intro.pdf) [Recording](https://www.youtube.com/watch?v=X0k14u6pSxw)
     - 讨论：No paper discussion.
-    - 笔记：10.17
+    - 笔记：10.17✅
 
 - **2** Robot Control & MDPs [Slides](https://cvg.ethz.ch/lectures/Robot-Learning/lectures/lecture2_control_mdp.pdf) [Recording](https://www.youtube.com/watch?v=5-Bb84eTTqQ)
     - 讨论
@@ -24,7 +24,8 @@ title: RobotLearning
         - [Deep RL Doesn’t Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html) (Irpan, 2018)
         - [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/pdf/1705.05363) (Pathak et al., 2017)
     - 嘉宾：[Abishek Gupta](https://homes.cs.washington.edu/~abhgupta/) (Prof. University of Washington) [YouTube Recording](https://youtu.be/aG8NPTPhwkE)
-    - 笔记：10.17看课程
+    - 笔记：
+        - 10.17看课程✅
 
 - **3** Imitation Learning [Slides](https://cvg.ethz.ch/lectures/Robot-Learning/lectures/lecture3_imitation.pdf) [Recording](https://youtu.be/Ef4R5s1LqoQ)
     - 讨论
@@ -106,6 +107,20 @@ title: RobotLearning
 
 [Youtube-Northwestern Kevin Lynch-Modern Robotics](https://www.youtube.com/watch?v=jVu-Hijns70)
 
+动力学/力控/阻抗导纳
+
+李群李代数/流形
+
 ## AI
 
-[Youtube-Stanford Fei-fei Li et el.-CS231n Deep Learning for Computer Vision](https://www.youtube.com/watch?v=2fq9wYslV0A&list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)
+[Youtube-Stanford Fei-fei Li et el.-CS231n Deep Learning for Computer Vision](https://www.youtube.com/watch?v=2fq9wYslV0A&list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) [(Link)](https://cs231n.stanford.edu/)
+
+一般网络搭建、训练
+
+transformer
+
+Generative Model
+
+
+
+## python/pytorch
